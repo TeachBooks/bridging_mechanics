@@ -17,7 +17,6 @@ Click the dropdown blocks below to find a detailed schedule for module activitie
 
 ---
 
-* Lecture 1.1 - Preliminaries, part 1 ({download}`slides<https://surfdrive.surf.nl/files/index.php/s/sAzyStOEz42JRrS/download>`):
-  1. {doc}`notebooks/0-preliminaries/lectures/probability_theory`
+...
 
 ```
