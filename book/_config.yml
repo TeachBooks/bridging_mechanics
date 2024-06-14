@@ -2,7 +2,7 @@
 title: Bridging course Structural Mechanics
 author:  Tom van Woudenberg from Delft university of Technology, built with <a href="https://teachbooks.tudelft.nl/">TeachBooks</a> and <a href="https://jupyterbook.org/">Jupyter Book</a>, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener noreferrer"">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="">
 email: T.R.vanWoudenberg@tudelft.nl
-logo: images/TUDelft_logo_rgb.png
+logo: figures/TUDelft_logo_rgb.png
 
 execute:
   execute_notebooks: "off"
@@ -10,9 +10,8 @@ execute:
 only_build_toc_files: true
 
 html:
-  favicon : "images/favicon.ico"
+  favicon : "figures/favicon.ico"
   baseurl :  "https://teachbooks.github.io/bridging_mechanics/" #Replace this with your own URL
-  home_page_in_navbar       : true
 
 sphinx:
   config:
