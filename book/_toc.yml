@@ -2,6 +2,7 @@ format: jb-book
 root: intro.md
 
 chapters:
+- file: schedule
 - file: external/mechanics-BSc/README.md
   sections:
   - file: external/mechanics-BSc/book/support_internal_forces/model/beams
