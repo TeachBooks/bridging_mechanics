@@ -28,10 +28,10 @@ sphinx:
       use_issues_button : true
       launch_buttons:
         thebe: true
-    html_show_copyright: false
-    favicon : "figures/favicon.ico"
-    baseurl :  "https://teachbooks.github.io/bridging_mechanics/" #Replace this with your own URL
-    home_page_in_navbar : true  
+      html_show_copyright: false
+      favicon : "figures/favicon.ico"
+      baseurl :  "https://teachbooks.github.io/bridging_mechanics/" #Replace this with your own URL
+      home_page_in_navbar : true  
   extra_extensions:
     - sphinx.ext.imgconverter
     - jupyterbook_patches
