@@ -1,18 +1,22 @@
 format: jb-book
 root: intro.md
-
-chapters:
-- file: schedule
-- file: external/mechanics-BSc/README.md
-  sections:
-  - file: external/mechanics-BSc/book/support_internal_forces/model/beams
-  - file: external/mechanics-BSc/book/support_internal_forces/model/cables
-  - file: external/mechanics-BSc/book/support_internal_forces/model/coordinate
-  - file: external/mechanics-BSc/book/support_internal_forces/model/supports
-  - file: external/mechanics-BSc/book/support_internal_forces/model/hinges
-  - file: external/mechanics-BSc/book/support_internal_forces/model/loads
-  - file: external/mechanics-BSc/book/support_internal_forces/model/internal_forces
-  - file: external/mechanics-BSc/book/support_internal_forces/model/FBD
-  - file: external/mechanics-BSc/book/support_internal_forces/model/structures
-- file: genindex
-- file: references
+parts:
+- caption: Course information
+  chapters:
+  - file: schedule
+- caption: Content
+  - file: week_1/intro
+    sections:
+    - file: week_1/intro
+      sections:
+      - file: external/mechanics-BSc/book/support_internal_forces/model/beams
+      - file: external/mechanics-BSc/book/support_internal_forces/model/cables
+      - file: external/mechanics-BSc/book/support_internal_forces/model/coordinate
+      - file: external/mechanics-BSc/book/support_internal_forces/model/supports
+      - file: external/mechanics-BSc/book/support_internal_forces/model/hinges
+      - file: external/mechanics-BSc/book/support_internal_forces/model/loads
+      - file: external/mechanics-BSc/book/support_internal_forces/model/internal_forces
+      - file: external/mechanics-BSc/book/support_internal_forces/model/FBD
+      - file: external/mechanics-BSc/book/support_internal_forces/model/structures
+  - file: genindex
+  - file: references
