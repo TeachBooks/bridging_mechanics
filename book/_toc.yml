@@ -5,6 +5,7 @@ parts:
   chapters:
   - file: schedule
 - caption: Content
+  chapters:
   - file: week_1/intro
     sections:
     - file: week_1/intro
