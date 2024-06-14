@@ -1,0 +1,3 @@
+[submodule "book/external/mechanics-BSc"]
+	path = book/external/mechanics-BSc
+	url = https://github.com/TeachBooks/mechanics-BSc.git
