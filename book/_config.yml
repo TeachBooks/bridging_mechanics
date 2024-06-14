@@ -1,6 +1,8 @@
-title: Template
-author: TeachBooks Team from Delft university of Technology, built with <a href="https://teachbooks.tudelft.nl/">TeachBooks</a> and <a href="https://jupyterbook.org/">Jupyter Book</a>, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener noreferrer"">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt=""> #Add your own name here
-logo: figures/TUDelft_logo_rgb.png #add your own logo here
+# General settings
+title: Bridging course Structural Mechanics
+author:  Tom van Woudenberg from Delft university of Technology, built with <a href="https://teachbooks.tudelft.nl/">TeachBooks</a> and <a href="https://jupyterbook.org/">Jupyter Book</a>, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener noreferrer"">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="">
+email: T.R.vanWoudenberg@tudelft.nl
+logo: images/TUDelft_logo_rgb.png
 
 execute:
   execute_notebooks: "off"
@@ -8,19 +10,20 @@ execute:
 only_build_toc_files: true
 
 html:
-  favicon : "figures/favicon.ico"
-  baseurl :  "https://teachbooks.github.io/template/" #Replace this with your own URL
+  favicon : "images/favicon.ico"
+  baseurl :  "https://teachbooks.github.io/bridging_mechanics/" #Replace this with your own URL
   home_page_in_navbar       : true
 
 sphinx:
   config:
+    bibtex_reference_style: super
     html_js_files:
     - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js
     thebe_config:
       use_thebe_lite: true
-      exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
+      exclude_patterns: ["**/**"]
     html_theme_options:
-      repository_url: "https://github.com/TeachBooks/template" #add your own repo URL here
+      repository_url: "https://github.com/TeachBooks/bridging_mechanics"
       use_repository_button: true
       use_issues_button : true
       launch_buttons:
@@ -31,4 +34,4 @@ sphinx:
     - jupyterbook_patches
 
 bibtex_bibfiles: 
-  - references.bib
+  - external/mechanics-BSc/book/references.bib
