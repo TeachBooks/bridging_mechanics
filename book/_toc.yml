@@ -1,28 +1,26 @@
 format: jb-book
 root: intro.md
 
-parts:
-  - caption: Contents
-    chapters:
-      - file: external/mechanics-BSC/book/support_internal_forces/intro
-      sections:
-      - file: external/mechanics-BSC/book/support_internal_forces/model/intro
-        sections:
-        - file: external/mechanics-BSC/book/support_internal_forces/model/beams
-        - file: external/mechanics-BSC/book/support_internal_forces/model/cables
-        - file: external/mechanics-BSC/book/support_internal_forces/model/coordinate
-        - file: external/mechanics-BSC/book/support_internal_forces/model/supports
-        - file: external/mechanics-BSC/book/support_internal_forces/model/hinges
-        - file: external/mechanics-BSC/book/support_internal_forces/model/loads
-        - file: external/mechanics-BSC/book/support_internal_forces/model/internal_forces
-        - file: external/mechanics-BSC/book/support_internal_forces/model/FBD
-        - file: external/mechanics-BSC/book/support_internal_forces/model/structures
-      - file: external/mechanics-BSC/book/support_internal_forces/transforming_forces/intro
-        sections:
-        - file: external/mechanics-BSC/book/support_internal_forces/transforming_forces/Resolution_of_forces
-      - file: external/mechanics-BSC/book/support_internal_forces/equilibrium/intro
-        sections:
-        - file: external/mechanics-BSC/book/support_internal_forces/equilibrium/particle
-        - file: external/mechanics-BSC/book/support_internal_forces/equilibrium/rigid_body
-    - file: genindex
-    - file: references
+chapters:
+- file: external/mechanics-BSC/book/support_internal_forces/intro
+sections:
+- file: external/mechanics-BSC/book/support_internal_forces/model/intro
+  sections:
+  - file: external/mechanics-BSC/book/support_internal_forces/model/beams
+  - file: external/mechanics-BSC/book/support_internal_forces/model/cables
+  - file: external/mechanics-BSC/book/support_internal_forces/model/coordinate
+  - file: external/mechanics-BSC/book/support_internal_forces/model/supports
+  - file: external/mechanics-BSC/book/support_internal_forces/model/hinges
+  - file: external/mechanics-BSC/book/support_internal_forces/model/loads
+  - file: external/mechanics-BSC/book/support_internal_forces/model/internal_forces
+  - file: external/mechanics-BSC/book/support_internal_forces/model/FBD
+  - file: external/mechanics-BSC/book/support_internal_forces/model/structures
+- file: external/mechanics-BSC/book/support_internal_forces/transforming_forces/intro
+  sections:
+  - file: external/mechanics-BSC/book/support_internal_forces/transforming_forces/Resolution_of_forces
+- file: external/mechanics-BSC/book/support_internal_forces/equilibrium/intro
+  sections:
+  - file: external/mechanics-BSC/book/support_internal_forces/equilibrium/particle
+  - file: external/mechanics-BSC/book/support_internal_forces/equilibrium/rigid_body
+- file: genindex
+- file: references
