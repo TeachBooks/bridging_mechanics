@@ -1,6 +1,11 @@
 # How to use this book
 
-This book heavily relies on another book containing all the structural mechanics material available here: https://teachbooks.github.io/mechanics-BSc
+This book heavily relies on another book containing all the structural mechanics material available here: https://teachbooks.github.io/mechanics-BSc. In turn, that online book refers extensively to the following published books:
+ - Engineering Mechanics: Volume 1: Equilibrium, by C. Hartsuijker and J.W. Welleman {cite}`Hartsuijker2006`. eBook available for free via TU Delft at https://link-springer-com.tudelft.idm.oclc.org/book/10.1007/978-1-4020-5483-9
+ - Engineering Mechanics: Volume 2: Stresses, strains and displacements, by C. Hartsuijker and J.W. Welleman {cite}`Hartsuijker2007`. eBook available for free via TU Delft at https://link-springer-com.tudelft.idm.oclc.org/book/10.1007/978-1-4020-5483-9
+ - Mechanica: Statisch onbepaalde constructies en bezwijkanalyse, by C. Hartsuijker and J.W. Welleman {cite}`Hartsuijker2016`. Book available at https://www.boom.nl/hoger-onderwijs/100-9587_Mechanica-Statisch-onbepaalde-constructies-en-bezwijkanalyse-3e-druk
+ - Mechanica: Stabiliteit van het evenwicht, by C. Hartsuijker and J.W. Welleman {cite}`Hartsuijker2023`. Book available at https://www.boom.nl/hoger-onderwijs/100-10458_Mechanica-Stabiliteit-van-het-evenwicht
+ - Introduction to continuum mechanics, by C. Hartsuijker and J.W. Welleman. Book available [here](external/mechanics-BSc/book/Lecture_Notes_Elasticity.pdf)
 
 This is the `2024-2025`-version of the book. Go to [/bridging_mechanics](https://teachbooks.github.io/bridging_mechanics) to view the most recent version of this book, or adapt the year in [/bridging_mechanics/2024](https://teachbooks.github.io/bridging_mechanics/2024) to the year when you took the course.
 

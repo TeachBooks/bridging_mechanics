@@ -1,4 +1,4 @@
-# Transforming forces, Equilibrium, Support reactions and statical determinancy. 
+# Basic model, transforming forces, equilibrium, support reactions and statical determinancy. 
 
 ```{tableofcontents}
 ```
