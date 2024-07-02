@@ -1,5 +1,5 @@
-lesson(1.2)=
-# Lesson Wednesday September 4th
+(homework1.3)=
+# Homework deadline lesson Friday September 6th
 
 ```{tableofcontents}
 ```

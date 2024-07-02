@@ -1,5 +1,5 @@
-lesson(1.2)=
-# Lesson Wednesday September 4th
+(lesson2.1)=
+# Lesson Monday September 9th
 
 ```{tableofcontents}
 ```
