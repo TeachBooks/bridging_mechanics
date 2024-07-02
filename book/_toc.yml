@@ -16,7 +16,8 @@ parts:
     - file: week_1/session_3/intro
   - file: week_2/intro
     sections:
-    - file: week_2/homework_1/intro
+    - file: week_2/session_1/intro
+    - file: week_2/homework_2/intro
       sections:
       - file: external/mechanics-BSc/book/support_internal_forces/model/beams
       - file: external/mechanics-BSc/book/support_internal_forces/model/cables
