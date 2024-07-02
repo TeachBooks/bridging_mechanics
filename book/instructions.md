@@ -2,7 +2,7 @@
 
 This book heavily relies on another book containing all the structural mechanics material available here: https://teachbooks.github.io/mechanics-BSc
 
-This is the `2024-2025`-version of the book. Go to [/bridging_mechanics](https://teachbooks.github.io/bridging_mechanics/schedule.html) to view the most recent version of this book, or adapt the year in [/bridging_mechanics/2024](https://teachbooks.github.io/bridging_mechanics/2024) to the year when you took the course.
+This is the `2024-2025`-version of the book. Go to [/bridging_mechanics](https://teachbooks.github.io/bridging_mechanics) to view the most recent version of this book, or adapt the year in [/bridging_mechanics/2024](https://teachbooks.github.io/bridging_mechanics/2024) to the year when you took the course.
 
 This book includes interactive features!
 - Interactive quizzes: Some page include interactive 'H5p' quizzes. This allows you to check your understanding. Any interactions you have with this system are not stored, unless you login into H5p.
