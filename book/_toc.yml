@@ -12,6 +12,10 @@ parts:
     - file: week_1/session_1/intro
     - file: week_1/session_2/intro
     - file: week_1/session_3/intro
+    - file: week_1/session_3/intro2
+  - file: week_2/intro
+    sections:
+    - file: week_2/session_1/intro
       sections:
       - file: external/mechanics-BSc/book/support_internal_forces/model/beams
       - file: external/mechanics-BSc/book/support_internal_forces/model/cables
@@ -22,9 +26,5 @@ parts:
       - file: external/mechanics-BSc/book/support_internal_forces/model/internal_forces
       - file: external/mechanics-BSc/book/support_internal_forces/model/FBD
       - file: external/mechanics-BSc/book/support_internal_forces/model/structures
-    - file: week_1/session_3/intro2
-  - file: week_2/intro
-    sections:
-    - file: week_2/session_1/intro
   - file: genindex
   - file: references
