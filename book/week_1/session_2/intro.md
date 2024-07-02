@@ -1,4 +1,4 @@
 (lesson1.2)=
 # Lesson Wednesday September 4th <br> {bdg-secondary-line}`Prerequisites`
 
-Basic model, transforming forces, equilibrium, support reactions and statical determinancy. 
+During this lesson you'll make a test on identifying which prerequisites you might need to spend some more time on.
