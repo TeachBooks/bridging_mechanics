@@ -1,5 +1,5 @@
 (homework2.2)=
-# Homework deadline lesson Wednesday September 11th {bdg-secondary}`Prerequisites`
+# Homework deadline lesson Wednesday September 11th <br> {bdg-secondary}`Prerequisites`
 
 ```{tableofcontents}
 ```
