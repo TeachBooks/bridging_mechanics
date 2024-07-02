@@ -1,4 +1,4 @@
 (lesson1.1)=
 # Lesson Monday September 2nd
 
-To be provided
+During this lesson an overview will be given of the course as described in [](../../course_information.md)

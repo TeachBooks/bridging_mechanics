@@ -3,6 +3,7 @@ root: intro
 parts:
 - caption: Course information
   chapters:
+  - file: course_information
   - file: schedule
   - file: instructions
 - caption: Content
