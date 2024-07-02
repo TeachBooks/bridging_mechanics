@@ -1,6 +1,6 @@
 # General settings
 title: Bridging course Structural Mechanics
-author: Tom van Woudenberg from Delft university of Technology, built with <a href="https://teachbooks.tudelft.nl/">TeachBooks</a> and <a href="https://jupyterbook.org/">Jupyter Book</a>, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener noreferrer"">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt=""> #Add your own name here
+author: Tom van Woudenberg from Delft University of Technology, built with <a href="https://teachbooks.tudelft.nl/">TeachBooks</a> and <a href="https://jupyterbook.org/">Jupyter Book</a>, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener noreferrer"">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt=""> #Add your own name here
 email: T.R.vanWoudenberg@tudelft.nl
 logo: figures/TUDelft_logo_rgb.png
 
@@ -41,7 +41,7 @@ parse:
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
       |Homework deadlines |||| | Self-grade [prerequisite test](homework1.3) <br> {bdg-secondary}`Prerequisites`|Read theory and make homework exercises [Statics](homework2.2) <br>{bdg-secondary}`Prerequisite`|
-      |Class activities| [Introduction course](lesson1.1) ||[Prerequisites test](lesson1.2) <br> {bdg-secondary-line}`Prerequisites` || [Evaluation test and make personal learning plans](lesson1.3) {bdg-secondary-line}`Prerequisites`|
+      |Class activities| [Introduction course](lesson1.1) ||[Prerequisites test](lesson1.2) <br> {bdg-secondary-line}`Prerequisites` || [Evaluation test](lesson1.3) {bdg-secondary-line}`Prerequisites`|
     week2: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
