@@ -1,7 +1,7 @@
 (homework2.2)=
-# Homework deadline lesson Wednesday September 11th
+# Homework deadline lesson Wednesday September 11th {bdg-secondary}`Prerequisites`
 
 ```{tableofcontents}
 ```
 
-Basic model, transforming forces, equilibrium, support reactions and statical determinancy. 
+During this meeting you're going 
