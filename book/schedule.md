@@ -2,18 +2,12 @@
 
 Click the dropdown blocks below to find a detailed schedule for module activities per week. Clicking the links will take you to the relevant content pages.
 
-```{dropdown} Week 2.1 (September 2th)
-||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming|
-|:-:|:-:|:-:|:-:|:--:|:-:|:-:|
-|Homework deadlines |||| Grade progress test 1 {bdg-danger}`Assessment` {bdg-secondary}`Prerequisite` | Prepare personal learning plan {bdg-secondary}`Prerequisite`|
-|Class activities| 15:45:<br>Introduction course || 13:45:<br> Progress test<br>{bdg-danger-line}`Assessment` {bdg-secondary-line}`Prerequisite` || 13:45:<br>Evaluation test and compare personal learning plans {bdg-danger-line}`Assessment` {bdg-secondary-line}`Prerequisite`|
+```{dropdown} Week 1.1 (September 2th)
+{{week1}}
 ```
 
-```{dropdown} Week 2.1 (September 9th)
-||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming|
-|:-:|:-:|:-:|:-:|:--:|:-:|:-:|
-|Homework deadlines ||| Read theory and make homework exercises [Equilibrium and support reactions](week_1/equilibrium/intro.md) <br>{bdg-secondary}`Prerequisite` ||Internal forces|
-|Class activities| 15:45:<br>Demonstration `Differential equations` <br>{bdg-primary-line}`New content` {bdg-secondary-line}`Prerequisite`|||
+```{dropdown} Week 1.2 (September 9th)
+{{week2}}
 ```
 
 |Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming|
