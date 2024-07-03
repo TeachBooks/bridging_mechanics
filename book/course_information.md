@@ -55,4 +55,4 @@ The learning will be assessed incrementally:
 - Exam period Q2, assignments on buckling and continuum mechanics
 - Exam period Q3, assignments on statically indeterminate structures, on buckling and on continuum mechanics
 
-A student passes the courses when he/she scores sufficient (minimum 6.0) for an assignments on each of the subjects. Each subject is graded separately as a partial grade .
+A student passes the courses when he/she scores sufficient (minimum 6.0) for an assignments on each of the subjects. Each subject is graded separately as a partial grade.
