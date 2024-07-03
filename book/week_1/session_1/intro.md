@@ -4,6 +4,7 @@
 ## Course introduction
 During this lesson an overview will be given of the course as described in:
 - [Course information](../../course_information.md)
+- [Course schedule](../../schedule.md)
 - [How to use this book](../../instructions.md)
 - [How to use ANS](../../ANS.md)
 - [Contact information](../../contact_information.md)
@@ -15,4 +16,4 @@ During this first week you'll make two prerequisite tests. These will offer both
 
 Try to do this exercise on your own. If you cannot proceed, you're free to discuss the exercise with your fellow students and the teacher. If you do so, indicate how this helped you so that it's clear which topics you do or do not master.
 
-Afterwards, you're test will be scanned so that I can have some insights in your performance as well. [However, you'll be asked to grade your submission yourself on paper using a provided model-answer as a preparation for the lesson on Friday. During that lesson we'll discuss the results to identify which topics you should spend more time on during this quarter](homework1.3)
+Afterwards, you're test will be scanned so that I can have some insights in your performance as well. [However, you'll be asked to grade your test yourself on paper using the provided model-answer as a preparation for the lesson on Friday. During that lesson we'll discuss the results to identify which topics you should spend more time on during this quarter](homework1.3)
