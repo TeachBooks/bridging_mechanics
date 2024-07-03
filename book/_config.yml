@@ -40,8 +40,8 @@ parse:
     week1: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
-      |Homework deadlines |||| | Self-grade [prerequisite test](homework1.3) <br> {bdg-secondary}`Prerequisites`|Read theory and make homework exercises [Statics](homework2.2) <br>{bdg-secondary}`Prerequisite`|
-      |Class activities| [Introduction course](lesson1.1) ||[Prerequisites test](lesson1.2) <br> {bdg-secondary-line}`Prerequisites` || [Evaluation test](lesson1.3) {bdg-secondary-line}`Prerequisites`|
+      |Homework deadlines |||Self-grade [prerequisite test](homework1.2) <br> {bdg-secondary}`Prerequisites`| | Self-grade [prerequisite test](homework1.3) <br> {bdg-secondary}`Prerequisites`|Read theory and make homework exercises [Statics](homework2.2) <br>{bdg-secondary}`Prerequisite`|
+      |Class activities| [Introduction course and prerequisite test 1](lesson1.1) <br> {bdg-secondary}`Prerequisites` ||[Prerequisites test](lesson1.2) <br> {bdg-secondary-line}`Prerequisites` || [Evaluation test](lesson1.3) {bdg-secondary-line}`Prerequisites`|
     week2: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
