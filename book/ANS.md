@@ -1,4 +1,4 @@
-# How to use <img height="100%" src="./figures/ANS.svg" alt="ANS">
+# How to use <img height="100" src="./figures/ANS.svg" alt="ANS">
 
 [<img height="12px" src="./figures/ANS.svg" alt="ANS">](https://ans.app/) is our online assessment tool. We use this for practice assignments and for the exams.
 
