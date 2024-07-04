@@ -9,7 +9,7 @@ Today we'll discuss the outcomes of the prerequisite tests; we'll discuss how as
 Following, you'll be asked to make a knowledge graph of the topics which you encountered in the prerequisite tests, and how they link to the learning objectives of this course. An example is shown below:
 ...
 
-Then, we'll discuss the structure of the prerequisite material as demonstrated in this this book by activities labelled with {bdg-secondary}`Prerequisites` and the full overview of all the content on [https://teachbooks.github.io/mechanics-BSc](https://teachbooks.github.io/mechanics-BSc).
+Then, we'll discuss the structure of the prerequisite material as demonstrated in this this book by activities labelled and the full overview of all the content on [https://teachbooks.github.io/mechanics-BSc](https://teachbooks.github.io/mechanics-BSc).
 
 ## Start homework deadline for next week
-If we've time left, you can start preparing for the first {bdg-secondary}`Prerequisites`-deadline on [Statics](homework2.2) which you'll need to apply in class on next Wednesday
+If we've time left, you can start preparing for the first homeowrk deadline on [Statics](homework2.2) which you'll need to apply in class on next Wednesday
