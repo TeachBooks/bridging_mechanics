@@ -1,6 +1,6 @@
 # How to use this book
 
-This book heavily relies on another book containing all the structural mechanics material available here: https://teachbooks.github.io/mechanics-BSc. In turn, that online book refers extensively to the following published books:
+This <a href="https://teachbooks.tudelft.nl/"><img height="12px" src="./figures/Logo_monochrome.png">TeachBooks</a> (built with <a href="https://jupyterbook.org/"><img height="12px" src="./figures/logo-wide.svg" alt="Jupyter book"></a>) heavily relies on another book containing all the structural mechanics material available here: https://teachbooks.github.io/mechanics-BSc. In turn, that online book refers extensively to the following published books:
  - Engineering Mechanics: Volume 1: Equilibrium, by C. Hartsuijker and J.W. Welleman {cite}`Hartsuijker2006`. eBook available for free via TU Delft at https://link-springer-com.tudelft.idm.oclc.org/book/10.1007/978-1-4020-5483-9
  - Engineering Mechanics: Volume 2: Stresses, strains and displacements, by C. Hartsuijker and J.W. Welleman {cite}`Hartsuijker2007`. eBook available for free via TU Delft at https://link-springer-com.tudelft.idm.oclc.org/book/10.1007/978-1-4020-5483-9
  - Mechanica: Statisch onbepaalde constructies en bezwijkanalyse, by C. Hartsuijker and J.W. Welleman {cite}`Hartsuijker2016`. Book available at https://www.boom.nl/hoger-onderwijs/100-9587_Mechanica-Statisch-onbepaalde-constructies-en-bezwijkanalyse-3e-druk
