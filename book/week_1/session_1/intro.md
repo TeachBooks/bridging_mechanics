@@ -6,7 +6,6 @@ During this lesson an overview will be given of the course as described in:
 - [Course information](../../course_information.md)
 - [Course schedule](../../schedule.md)
 - [How to use this book](../../instructions.md)
-- [How to use ANS](../../ANS.md)
 - [Contact information](../../contact_information.md)
 
 Furthermore, we'll do a round of introduction.
