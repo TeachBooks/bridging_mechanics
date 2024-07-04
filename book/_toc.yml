@@ -20,15 +20,20 @@ parts:
     - file: week_2/session_1/intro
     - file: week_2/homework_2/intro
       sections:
-      - file: external/mechanics-BSc/book/support_internal_forces/model/beams
-      - file: external/mechanics-BSc/book/support_internal_forces/model/cables
-      - file: external/mechanics-BSc/book/support_internal_forces/model/coordinate
-      - file: external/mechanics-BSc/book/support_internal_forces/model/supports
-      - file: external/mechanics-BSc/book/support_internal_forces/model/hinges
-      - file: external/mechanics-BSc/book/support_internal_forces/model/loads
-      - file: external/mechanics-BSc/book/support_internal_forces/model/internal_forces
-      - file: external/mechanics-BSc/book/support_internal_forces/model/FBD
-      - file: external/mechanics-BSc/book/support_internal_forces/model/structures
+      - file: external/mechanics-BSc/book/support_internal_forces/model/intro
+        sections:
+        - file: external/mechanics-BSc/book/support_internal_forces/model/elements
+        - file: external/mechanics-BSc/book/support_internal_forces/model/coordinate
+        - file: external/mechanics-BSc/book/support_internal_forces/model/loads
+        - file: external/mechanics-BSc/book/support_internal_forces/model/internal_forces
+        - file: external/mechanics-BSc/book/support_internal_forces/model/supports
+        - file: external/mechanics-BSc/book/support_internal_forces/model/hinges
+        - file: external/mechanics-BSc/book/support_internal_forces/model/FBD
+        - file: external/mechanics-BSc/book/support_internal_forces/model/structures
+      - file: external/mechanics-BSc/book/support_internal_forces/transforming_forces/intro
+        sections:
+        - external/mechanics-BSc/book/support_internal_forces/transforming_forces/resolution_of_forces
+      
     - file: week_2/session_2/intro
   - file: genindex
   - file: references
