@@ -1,6 +1,6 @@
-# How to use <img height="100" src="./figures/ANS.svg" alt="ANS">
+# How to use ANS
 
-[<img height="12px" src="./figures/ANS.svg" alt="ANS">](https://ans.app/) is our online assessment tool. We use this for practice assignments and for the exams.
+[<img height="12px" src="./figures/ANS.svg" alt="ANS" transform:translate(0, +0.2em)>](https://ans.app/) is our online assessment tool. We use this for practice assignments and for the exams.
 
 During this course, you'll interact with two courses in [<img height="12px" src="./figures/ANS.svg" alt="ANS">](https://ans.app/):
 - [<img height="12px" src="./figures/ANS.svg" alt="ANS">](https://ans.app/) course `CT1000 Constructiemechanica CT-Schakel BRIGHTSPACE`. In this course all the assignments specific for this course can be found. This includes the prerequisite tests and the exams. You can login into this course by visiting the Brightspace website.
