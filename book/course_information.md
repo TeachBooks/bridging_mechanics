@@ -29,7 +29,7 @@ The learning-line of structural mechanics as taught in the BSc programme of Civi
 
 Students start the course with an ungraded, self-assessed prerequisite test to identify shortcomings in their knowledge.
 
-All of the separate modules are collected in this <a href="https://teachbooks.tudelft.nl/"><img height="20px" src="./figures/Logo_without_background.png"></img>TeachBook</a>, breaking down each module into separate parts of theory and skills including exercises. Assistance is provided to small student groups and individual students.
+All of the separate modules are collected in this TeachBook, breaking down each module into separate parts of theory and skills including exercises. Assistance is provided to small student groups and individual students.
 
 The support by lecturers and TAs in class comprises of:
 - Classical introduction on learning objective 1-4

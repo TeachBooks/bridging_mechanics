@@ -1,6 +1,6 @@
 # How to use this TeachBook
 
-This <a href="https://teachbooks.tudelft.nl/"><img height="20px" src="./figures/Logo_without_background.png"></img>TeachBook</a> combines the course schedule and content. The content is shown independently as well in the [Mechanics-BSc TeachBook](https://teachbooks.github.io/mechanics-BSc).
+This <img height="20px" src="./figures/Logo_without_background.png"> combines the course schedule and content. The content is shown independently as well in the [Mechanics-BSc TeachBook](https://teachbooks.github.io/mechanics-BSc).
 
 ## Linked literature and tools
 This TeachBook links to relevant part of the other literature and only provides additional content when the other literature.
