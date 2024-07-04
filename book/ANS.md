@@ -1,6 +1,6 @@
 # How to use ANS
 
-[![ANS](./figures/ANS.svg)](https://ans.app/) is our online assessment tool. We use this for practice assignments and for the exams.
+[<img height="12px" src="./figures/ANS.svg">](https://ans.app/) is our online assessment tool. We use this for practice assignments and for the exams.
 
 During this course, you'll interact with two courses in [<img height="12px" src="./figures/ANS.svg">](https://ans.app/):
 - [<img height="12px" src="./figures/ANS.svg">](https://ans.app/) course `CT1000 Constructiemechanica CT-Schakel BRIGHTSPACE`. In this course all the assignments specific for this course can be found. This includes the prerequisite tests and the exams. You can login into this course by visiting the Brightspace website.

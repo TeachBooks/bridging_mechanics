@@ -36,6 +36,13 @@ bibtex_bibfiles:
   - external/mechanics-BSc/book/references.bib
 
 parse:
+  myst_enable_extensions:
+    - colon_fence
+    - dollarmath
+    - html_image
+    - linkify
+    - substitution
+    - tasklist
   myst_substitutions:
     week1: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming|
