@@ -38,15 +38,14 @@ The support by lecturers and TAs in class comprises of:
 - Guidance and feedback on exercises, if requested
 
 ## Course material
-- This online interactive textbook combining all sources into modules, breaking down each module into separate parts of theory and skills including exercises. This book links the student to relevant part of the other literature and only provides additional content when the other literature.
-- Engineering Mechanics: Volume 1: Equilibrium, by C. Hartsuijker and J.W. Welleman {cite}`Hartsuijker2006`. eBook available for free via TU Delft at https://link-springer-com.tudelft.idm.oclc.org/book/10.1007/978-1-4020-5483-9
-- Engineering Mechanics: Volume 2: Stresses, strains and displacements, by C. Hartsuijker and J.W. Welleman {cite}`Hartsuijker2007`. eBook available for free via TU Delft at https://link-springer-com.tudelft.idm.oclc.org/book/10.1007/978-1-4020-5483-9
-- Mechanica: Statisch onbepaalde constructies en bezwijkanalyse, by C. Hartsuijker and J.W. Welleman {cite}`Hartsuijker2016`. Book available at https://www.boom.nl/hoger-onderwijs/100-9587_Mechanica-Statisch-onbepaalde-constructies-en-bezwijkanalyse-3e-druk
-- Mechanica: Stabiliteit van het evenwicht, by C. Hartsuijker and J.W. Welleman {cite}`Hartsuijker2023`. Book available at https://www.boom.nl/hoger-onderwijs/100-10458_Mechanica-Stabiliteit-van-het-evenwicht
+This online interactive textbook combining all sources into modules, breaking down each module into separate parts of theory and skills including exercises. This book links the student to relevant part of the other literature and only provides additional content when the other literature.
+- Engineering Mechanics: Volume 1: Equilibrium, by C. Hartsuijker and J.W. Welleman {cite}`Hartsuijker2006`. eBook available for free via TU Delft at https://link-springer-com.tudelft.idm.oclc.org/book/10.1007/978-1-4020-5483-9. This book is also available in Dutch (only paid version).
+- Engineering Mechanics: Volume 2: Stresses, strains and displacements, by C. Hartsuijker and J.W. Welleman {cite}`Hartsuijker2007`. eBook available for free via TU Delft at https://link-springer-com.tudelft.idm.oclc.org/book/10.1007/978-1-4020-5483-9, This book is also available in Dutch (only paid version).
+- Mechanica: Statisch onbepaalde constructies en bezwijkanalyse, by C. Hartsuijker and J.W. Welleman {cite}`Hartsuijker2016`. Book available at https://www.boom.nl/hoger-onderwijs/100-9587_Mechanica-Statisch-onbepaalde-constructies-en-bezwijkanalyse-3e-druk. This book is only available as a paid version in Dutch
+- Mechanica: Stabiliteit van het evenwicht, by C. Hartsuijker and J.W. Welleman {cite}`Hartsuijker2023`. Book available at https://www.boom.nl/hoger-onderwijs/100-10458_Mechanica-Stabiliteit-van-het-evenwicht. This book is only available as a paid version in Dutch
 - Introduction to continuum mechanics, by C. Hartsuijker and J.W. Welleman. Book available [here](external/mechanics-BSc/book/Lecture_Notes_Elasticity.pdf)
-- Additional exercises in ANS
-- Self-assessed prerequisite test in ANS
-- Paper-based exams in ANS
+- Additional exercises in [ANS](ans)
+- Self-assessed prerequisite tests and paper-based exames in [ANS](ans)
 
 ## Assessment
 The learning will be assessed incrementally:

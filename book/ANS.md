@@ -1,6 +1,6 @@
 # How to use ANS
 
-ANS is our online assessment tool. We use this for practice assignments and for the exams.
+<img height="12px" alt="Ans" src="https://support.ans.app/hc/theming_assets/01HZPPMZ80K0KTWSVYJC1E276J"> is our online assessment tool. We use this for practice assignments and for the exams.
 
 During this course, you'll interact with two courses in ANS:
 - ANS course `CT1000 Constructiemechanica CT-Schakel BRIGHTSPACE`. In this course all the assignments specific for this course can be found. This includes the prerequisite tests and the exams. You can login into this course by visiting the Brightspace website.
