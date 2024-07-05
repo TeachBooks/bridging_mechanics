@@ -12,4 +12,4 @@ Following, you'll be asked to make a knowledge graph of the topics which you enc
 Then, we'll discuss the structure of the prerequisite material as demonstrated in this this book by activities labelled and the full overview of all the content on [https://teachbooks.github.io/mechanics-BSc](https://teachbooks.github.io/mechanics-BSc).
 
 ## Start homework deadline for next week
-If we've time left, you can start preparing for the first homeowrk deadline on [Statics](homework2.2) which you'll need to apply in class on next Wednesday
+If we've time left, you can start preparing for the first homework deadline on [Statics externally](homework2.2) which you'll need to apply in class on next Wednesday
