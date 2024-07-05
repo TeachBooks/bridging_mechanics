@@ -11,6 +11,6 @@ You can view test including the model answer as soon as it's scanned at:
 
 The model answer includes the levels to select for grading. You'll grade your prerequisite tests yourselves. Unfortunately that's not possible from within the ANS environment. However, I'm curious to your own grading, so you can submit your grade via:
 - [<img height="18px" src="../../figures/Microsoft_Forms.svg" alt="Microsoft Forms"> form prerequisite test 1](https://forms.office.com/e/viiL8VkwWy).
-- [<img height="18px" src="../../figures/Microsoft_Forms.svg" alt="Microsoft Forms"> form prerequisite test 2](...).
+- [<img height="18px" src="../../figures/Microsoft_Forms.svg" alt="Microsoft Forms"> form prerequisite test 2](https://forms.office.com/e/PxYUsRqhei).
 
 You can that directly after your prerequisite tests are scanned. After you submit your grading, please save the link provided in the summary screen to be able to view and edit your grading at a later stage.
