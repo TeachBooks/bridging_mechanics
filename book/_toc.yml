@@ -7,7 +7,7 @@ parts:
   - file: schedule
   - file: instructions
   - file: contact_information
-  - page: https://brightspace.tudelft.nl/d2l/home/703722
+  - url: https://brightspace.tudelft.nl/d2l/home/703722
     title: Brightspace Announcements
 - caption: Content
   chapters:
