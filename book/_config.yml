@@ -11,7 +11,8 @@ only_build_toc_files: true
 
 html:
   favicon : "figures/favicon.ico"
-  baseurl :  "https://teachbooks.github.io/bridging_mechanics/" #Replace this with your own URL
+  baseurl :  "https://teachbooks.github.io/bridging_mechanics/"
+  announcement : "This book is under construction ✍🏻"
 
 sphinx:
   config:
