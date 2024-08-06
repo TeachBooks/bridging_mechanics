@@ -31,9 +31,7 @@ parts:
         - file: external/mechanics-BSc/book/support_internal_forces/model/supports
         - file: external/mechanics-BSc/book/support_internal_forces/model/hinges
         - file: external/mechanics-BSc/book/support_internal_forces/model/FBD
-      - file: external/mechanics-BSc/book/support_internal_forces/transforming_forces/intro
-        sections:
-        - file: external/mechanics-BSc/book/support_internal_forces/transforming_forces/Resolution_of_forces
+      - file: external/mechanics-BSc/book/support_internal_forces/transforming_forces/Resolution_of_forces
       - file: external/mechanics-BSc/book/support_internal_forces/equilibrium/intro
         sections:
         - file: external/mechanics-BSc/book/support_internal_forces/equilibrium/particle
