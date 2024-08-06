@@ -2,7 +2,7 @@
 # Lesson Wednesday September 4th <br> {bdg-secondary-line}`Prerequisites`
 
 ## Prerequisite test 2
-Today we'll continue with the second prerequisite test. These will offer both an overview of the expected prerequisite knowledge and allows you to check whether you master those topics. This test won't count for your final grade of this course but is purely 
+Today we'll continue with the second prerequisite test. Again, this will offer both an overview of the expected prerequisite knowledge and allows you to check whether you master those topics. This test won't count for your final grade of this course but is meant to give you insight in your learning.
 
 Try to do this exercise on your own. If you cannot proceed, you're free to discuss the exercise with your fellow students and the teacher. If you do so, indicate how this helped you so that it's clear which topics you do or do not master.
 
