@@ -50,7 +50,6 @@ parts:
         - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_truss/cross_section
       - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_beam/intro
         sections:
-        - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_beam/zero-force
         - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_beam/cross_section
     - file: week_2/session_2/intro
 - caption: Miscellaneous
