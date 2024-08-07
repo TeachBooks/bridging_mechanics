@@ -56,6 +56,10 @@ parts:
         sections:
         - file: external/mechanics-BSc/book/support_internal_forces/ode/extension
         - file: external/mechanics-BSc/book/support_internal_forces/ode/bending
+      - file: external/mechanics-BSc/book/stresses_displacements/kinematic/intro
+        sections:
+        - file: external/mechanics-BSc/book/stresses_displacements/kinematic/extension
+        - file: external/mechanics-BSc/book/stresses_displacements/kinematic/bending
     - file: week_2/session_3/intro
 - caption: Miscellaneous
   chapters:
