@@ -26,7 +26,7 @@ If you're stuck on a certain topic, you can also visit the teaching assistants d
 
 ## Teaching assistants
 - Room 6.41
-- Question hour every lunch
+- Question hour during every lunch break
 - 015-2783654
 - SA-mech-CITG@tudelft.nl
 

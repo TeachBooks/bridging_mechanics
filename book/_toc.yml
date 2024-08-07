@@ -51,6 +51,11 @@ parts:
         - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_beam/cross_section
     - file: week_2/session_2/intro
     - file: week_2/homework_3/intro
+      sections:
+      - file: external/mechanics-BSc/book/support_internal_forces/ode/intro
+        sections:
+        - file: external/mechanics-BSc/book/support_internal_forces/ode/extension
+        - file: external/mechanics-BSc/book/support_internal_forces/ode/bending
     - file: week_2/session_3/intro
 - caption: Miscellaneous
   chapters:
