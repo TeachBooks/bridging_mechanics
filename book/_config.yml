@@ -21,10 +21,10 @@ sphinx:
       repository_url: "https://github.com/TeachBooks/bridging_mechanics"
       use_repository_button: true
       use_issues_button : true
-      launch_buttons:
-        thebe: true
       favicon : "figures/favicon.ico"
       baseurl :  "https://teachbooks.github.io/bridging_mechanics/"
+      launch_buttons:
+        thebe: true
     html_show_copyright: false
   extra_extensions:
     - sphinx.ext.imgconverter
