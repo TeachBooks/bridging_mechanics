@@ -9,11 +9,6 @@ execute:
 
 only_build_toc_files: true
 
-html:
-  favicon : "figures/favicon.ico"
-  baseurl :  "https://teachbooks.github.io/bridging_mechanics/"
-  announcement : "This book is under construction ✍🏻"
-
 sphinx:
   config:
     bibtex_reference_style: super
@@ -28,6 +23,8 @@ sphinx:
       use_issues_button : true
       launch_buttons:
         thebe: true
+      favicon : "figures/favicon.ico"
+      baseurl :  "https://teachbooks.github.io/bridging_mechanics/"
     html_show_copyright: false
   extra_extensions:
     - sphinx.ext.imgconverter
