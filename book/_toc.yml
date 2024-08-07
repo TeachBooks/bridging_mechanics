@@ -44,5 +44,8 @@ parts:
         - file: external/mechanics-BSc/book/support_internal_forces/support_reactions/hinged
         - file: external/mechanics-BSc/book/support_internal_forces/support_reactions/complicated
     - file: week_2/session_2/intro
+- caption: Miscellaneous
+  chapters:
+  - file: changelog
   - file: genindex
   - file: references
