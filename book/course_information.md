@@ -2,8 +2,8 @@
 
 ## Learning objectives
 At the end of this module, the student has shown it is able to:
-1.	Model, evaluate and reflect on validity of support reactions, internal forces and displacements in skeletal structures using differential equations. 
-2.	Model, evaluate and reflect on validity of support reactions, internal forces and displacements in statically indeterminate skeletal structures using the force- and hybrid method. 
+1.	Model, evaluate and reflect on validity of support reactions, section forces and displacements in skeletal structures using differential equations. 
+2.	Model, evaluate and reflect on validity of support reactions, section forces and displacements in statically indeterminate skeletal structures using the force- and hybrid method. 
 3.	Model, evaluate and reflect on validity of the stress state on homogeneous planar elements for any coordinate system.
 4.	Model, evaluate and reflect on validity of buckling load of skeletal structures.
 This aligns with the learning objectives of Structural Mechanics 3 of the regular BSc programme of Civil Engineering.
@@ -11,7 +11,7 @@ This aligns with the learning objectives of Structural Mechanics 3 of the regula
 As a prerequisite for the main objectives, a students should be able to model, evaluate and reflect on forces, displacements and stresses in statically determinate structures. This is made specific in the following prerequisite learning objectives:
 
 <ol type="a">
-  <li>Model, evaluate and reflect on validity of shape (only for cables), support reactions and internal forces in statically determinate skeletal structures and cables using equilibrium relations and virtual work (only on beam structures), required for learning objective 2 and 2. </li>
+  <li>Model, evaluate and reflect on validity of shape (only for cables), support reactions and section forces in statically determinate skeletal structures and cables using equilibrium relations and virtual work (only on beam structures), required for learning objective 2 and 2. </li>
   <li>Model, evaluate and reflect on validity of displacements of truss- and skeletal bending structures using Williot, forget-me-nots and Moment-area theorems, required for learning objective 2 and 4</li>
   <li>Model, evaluate and reflect on validity of normal- and shear stresses in thick- and thin-walled cross-sections due to normal forces, bending moments and torsional moments, required for learning objective 3</li>
 </ol>
