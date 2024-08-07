@@ -31,6 +31,7 @@ parts:
         - file: external/mechanics-BSc/book/support_internal_forces/model/supports
         - file: external/mechanics-BSc/book/support_internal_forces/model/hinges
         - file: external/mechanics-BSc/book/support_internal_forces/model/FBD
+        - file: external/mechanics-BSc/book/support_internal_forces/model/structures
       - file: external/mechanics-BSc/book/support_internal_forces/transforming_forces/Resolution_of_forces
       - file: external/mechanics-BSc/book/support_internal_forces/equilibrium/intro
         sections:
@@ -43,6 +44,11 @@ parts:
         - file: external/mechanics-BSc/book/support_internal_forces/support_reactions/rigid_body
         - file: external/mechanics-BSc/book/support_internal_forces/support_reactions/hinged
         - file: external/mechanics-BSc/book/support_internal_forces/support_reactions/complicated
+      - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_truss
+        sections:
+        - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_truss/intro
+        - file: external/mechanics-BSc/book//internal_forces_truss/zero-force
+        - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_truss/cross_section
     - file: week_2/session_2/intro
 - caption: Miscellaneous
   chapters:
