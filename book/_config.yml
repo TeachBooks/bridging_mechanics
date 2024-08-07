@@ -9,6 +9,11 @@ execute:
 
 only_build_toc_files: true
 
+
+html:
+  favicon : "figures/favicon.ico"
+  baseurl :  "https://teachbooks.github.io/bridging_mechanics/"
+
 sphinx:
   config:
     bibtex_reference_style: super
@@ -21,8 +26,6 @@ sphinx:
       repository_url: "https://github.com/TeachBooks/bridging_mechanics"
       use_repository_button: true
       use_issues_button : true
-      favicon : "figures/favicon.ico"
-      baseurl :  "https://teachbooks.github.io/bridging_mechanics/"
       launch_buttons:
         thebe: true
     html_show_copyright: false
