@@ -32,6 +32,7 @@ sphinx:
   extra_extensions:
     - sphinx.ext.imgconverter
     - jupyterbook_patches
+    - download_link_replacer
 
 bibtex_bibfiles: 
   - external/mechanics-BSc/book/references.bib

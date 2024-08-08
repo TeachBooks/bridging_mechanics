@@ -90,6 +90,9 @@ parts:
         - file: external/mechanics-BSc/book/stresses_displacements/displacements_frame/ode
     - file: week_3/session_1/intro
     - file: week_3/homework_2/intro
+      sections:
+      - file: external/mechanics-BSc/book/tools/sympy
+      - file: external/mechanics-BSc/book/tools/sympy_mech
     - file: week_3/session_2/intro
     - file: week_3/session_3/intro
 - caption: Miscellaneous
