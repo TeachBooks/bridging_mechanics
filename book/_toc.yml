@@ -56,10 +56,10 @@ parts:
         sections:
         - file: external/mechanics-BSc/book/support_internal_forces/ode/extension
         - file: external/mechanics-BSc/book/support_internal_forces/ode/bending
-      - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_truss/intro
+      - file: week_2/homework_3/toc_file_1
         sections:
         - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_truss/ode
-      - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_beam/intro
+      - file: week_2/homework_3/toc_file_2
         sections:
         - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_beam/ode
       - file: external/mechanics-BSc/book/stresses_displacements/kinematic/intro
