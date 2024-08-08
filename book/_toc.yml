@@ -52,21 +52,30 @@ parts:
     - file: week_2/session_2/intro
     - file: week_2/homework_3/intro
       sections:
-      - file: external/mechanics-BSc/book/stresses_displacements/model/intro
-        sections:
-        - file: external/mechanics-BSc/book/stresses_displacements/model/stress-strain
-        - file: external/mechanics-BSc/book/stresses_displacements/model/fibre_model
-        - file: external/mechanics-BSc/book/stresses_displacements/model/strain_diagram
       - file: external/mechanics-BSc/book/support_internal_forces/ode/intro
         sections:
         - file: external/mechanics-BSc/book/support_internal_forces/ode/extension
         - file: external/mechanics-BSc/book/support_internal_forces/ode/bending
+        - file: external/mechanics-BSc/book/support_internal_forces/ode/cable
       - file: week_2/homework_3/toc_file_1
         sections:
         - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_truss/ode
       - file: week_2/homework_3/toc_file_2
         sections:
         - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_beam/ode
+      - file: external/mechanics-BSc/book/support_internal_forces/cable/intro
+        sections:
+        - file: external/mechanics-BSc/book/support_internal_forces/cable/equilibrium
+        - file: external/mechanics-BSc/book/support_internal_forces/cable/ode
+    - file: week_2/session_3/intro
+  - file: week_3/intro
+    sections:
+    - file: week_3/homework_1/intro
+      - file: external/mechanics-BSc/book/stresses_displacements/model/intro
+        sections:
+        - file: external/mechanics-BSc/book/stresses_displacements/model/stress-strain
+        - file: external/mechanics-BSc/book/stresses_displacements/model/fibre_model
+        - file: external/mechanics-BSc/book/stresses_displacements/model/strain_diagram
       - file: external/mechanics-BSc/book/stresses_displacements/kinematic/intro
         sections:
         - file: external/mechanics-BSc/book/stresses_displacements/kinematic/extension
@@ -81,10 +90,6 @@ parts:
       - file: external/mechanics-BSc/book/stresses_displacements/displacements_frame/intro
         sections:
         - file: external/mechanics-BSc/book/stresses_displacements/displacements_frame/ode
-    - file: week_2/session_3/intro
-  - file: week_3/intro
-    sections:
-    - file: week_3/homework_1/intro
     - file: week_3/session_1/intro
     - file: week_3/homework_2/intro
     - file: week_3/session_2/intro
