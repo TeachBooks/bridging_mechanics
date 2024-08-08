@@ -1,5 +1,5 @@
 (lesson1.1)=
-# Lesson Monday September 2nd <br> {bdg-secondary-line}`Prerequisites`
+# Lesson Monday September 2nd
 
 ## Course introduction
 During this lesson an overview will be given of the course as described in:

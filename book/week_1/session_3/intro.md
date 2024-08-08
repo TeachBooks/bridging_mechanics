@@ -1,5 +1,5 @@
 (lesson1.3)=
-# Lesson Friday September 6th <br> {bdg-secondary-line}`Prerequisites`
+# Lesson Friday September 6th
 
 As a preparation [you graded your own prerequisite test](homework1.3). Furthermore, I graded your work as well. Today we'll discuss the results. If there's time left, you can start working on next week homework deadline.
 

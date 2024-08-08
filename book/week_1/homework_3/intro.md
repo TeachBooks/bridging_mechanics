@@ -1,5 +1,5 @@
 (homework1.3)=
-# Homework deadline lesson Friday September 6th <br> {bdg-secondary}`Prerequisites`
+# Homework deadline lesson Friday September 6th
 
 As a preparation for [Friday's lesson](lesson1.3) you'll be asked to grade your test yourself on paper using the provided model-answer. During that lesson we'll discuss the results to identify which topics you should spend more time on during this quarter.
 
