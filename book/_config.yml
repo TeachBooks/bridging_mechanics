@@ -53,9 +53,13 @@ parse:
     week2: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
-      |Homework deadlines ||| [Read theory and make homework exercises Statics externally](homework2.2) <br>{bdg-secondary}`Prerequisites` ||[Read theory and make homework exercises Euler-Bernoulli](homework2.3)  <br>{bdg-secondary}`Prerequisites`|
-      |Class activities| Demonstration [Differential equations](lesson2.1) <br>{bdg-primary-line}`New content`||[Guided practice on Statics externally](lesson2.2)<br> {bdg-secondary-line}`Prerequisites`||[Guided practice on Euler-Bernoulli](lesson2.3)<br> {bdg-secondary-line}`Prerequisites`|
-    week3: "To be provided"
+      |Homework deadlines ||| [Read theory and make homework exercises Statics externally](homework2.2) <br>{bdg-secondary}`Prerequisites` ||[Read theory and make homework exercises Euler-Bernoulli](homework2.3)  <br>{bdg-secondary}`Prerequisites`|Monday: [Read theory and make homework exercises Cables](homework3.1) <br>{bdg-secondary}`Prerequisites`|
+      |Class activities| [Demonstration Differential equations](lesson2.1) <br>{bdg-primary-line}`New content`||[Guided practice on Statics externally](lesson2.2)<br> {bdg-secondary-line}`Prerequisites`||[Guided practice on Euler-Bernoulli](lesson2.3)<br> {bdg-secondary-line}`Prerequisites`|
+    week3: |
+      ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
+      |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
+      |Homework deadlines |[Read theory and make homework exercises Cables](homework3.1) <br>{bdg-secondary}`Prerequisites` ||[Read theory and make homework exercises differential equations](homework3.2)  <br>{bdg-secondary}`Prerequisites`|||Monday: [Read theory and make homework exercises Extension](homework4.1)|
+      |Class activities| [Guided practice on Cables](lesson3.1) <br>{bdg-secondary-line}`Prerequisites`||[Guided practice on differential equations](lesson3.2) <br>{bdg-primary-line}`New content`||[Demonstration Force method extension](lesson3.3) <br>{bdg-primary-line}`New content`|
     week4: "To be provided"
     week5: "To be provided"
     week6: "To be provided"

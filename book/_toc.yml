@@ -65,6 +65,13 @@ parts:
         - file: external/mechanics-BSc/book/stresses_displacements/constitutive/extension
         - file: external/mechanics-BSc/book/stresses_displacements/constitutive/bending
     - file: week_2/session_3/intro
+  - file: week_3/intro
+    sections:
+    - file: week_3/homework_1/intro
+    - file: week_3/session_1/intro
+    - file: week_3/homework_2/intro
+    - file: week_3/session_2/intro
+    - file: week_3/session_3/intro
 - caption: Miscellaneous
   chapters:
   - file: changelog
