@@ -1,5 +1,5 @@
 (homework2.3)=
-# Homework deadline lesson Wednesday September 13th
+# Homework deadline lesson Friday September 13th
 
 As a preparation for Friday's lesson you'll look into Euler Bernoulli's theory, consisting of the following topics:
 
