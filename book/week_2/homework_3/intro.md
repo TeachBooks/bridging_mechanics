@@ -1,7 +1,7 @@
 (homework2.3)=
 # Homework deadline lesson Friday September 13th
 
-As a preparation for Friday's lesson you'll look into Euler Bernoulli's theory, consisting of the following topics:
+As a preparation for Friday's lesson you'll look into equilibrium relations and cables, consisting of the following topics:
 
 ```{tableofcontents}
 ```
