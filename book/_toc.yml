@@ -55,7 +55,11 @@ parts:
       - file: external/mechanics-BSc/book/support_internal_forces/ode/intro
         sections:
         - file: external/mechanics-BSc/book/support_internal_forces/ode/extension
+        - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_truss/ode
+          title: Solve section forces statically determinate bar structure using equilibrium relations
         - file: external/mechanics-BSc/book/support_internal_forces/ode/bending
+        - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_beam/ode
+          title: Solve section forces statically determinate frame structure using equilibrium relations
       - file: external/mechanics-BSc/book/stresses_displacements/kinematic/intro
         sections:
         - file: external/mechanics-BSc/book/stresses_displacements/kinematic/extension
