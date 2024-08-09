@@ -180,7 +180,7 @@ Leading to the following displacements if $\text{AC}$ doesn't rotate:
 |$\text{E}$|$-25$|$-55$|
 |$\text{B}$|$24$|$-103$|
 
-$\text{B}$ Shouldn't move vertically, so this structure has to be rotated back with $\theta  \approx \cfrac{{103}}{{12000}} \approx 8.5476 \cdot {10^{ - 3}}{\text{ rad}}$ ⟳, leading to:
+$\text{B}$ shouldn't move vertically, so this structure has to be rotated back with $\theta  \approx \cfrac{{103}}{{12000}} \approx 8.5476 \cdot {10^{ - 3}}{\text{ rad}}$ ⟳, leading to:
 
 | joint | Displacement due to $\theta$ in horizontal direction → $\left( \text{mm}\right)$| Displacement due to $\theta$ in vertical direction ↓ $\left( \text{mm}\right)$|
 | :-:|:-:|:-:|
@@ -270,6 +270,12 @@ The section forces can be calculated by filling in the resulting $B_\text{h}$ in
 |$\text{DE}$|6.25|
 |$\text{AD}$|3.75|
 |$\text{DB}$|-3.75|
+
+```{figure} ./intro_data/N-line.svg
+:align: center
+
+Normal force distribution
+```
 
 ### Displacements statically indeterminate structure
 Now, the displacements can be found as well by filling in the resulting $B_\text{h}$ in our previous expressions:
