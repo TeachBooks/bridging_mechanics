@@ -130,7 +130,7 @@ And finally joint $\text{C}$:
 Free-body-diagram joint $\text{D}$
 ```
 
-$$\sum {{F_{\rm{v}}} = 0}  \to {N_{{\rm{DE}}}} =  - 18.75{\text{ kN}}$$
+$$\sum {{F_{\rm{v}}} = 0}  \to {N_{{\rm{AC}}}} =  - 18.75{\text{ kN}}$$
 
 ```{figure} ./intro_data/FBD_C_sol.svg
 :align: center
@@ -142,3 +142,148 @@ Free-body-diagram joint $\text{D}$
 
 Now, for each element the shortening / lengthening can be calculated:
 
+$$\Delta L = \frac{{NL}}{{EA}} \to \begin{array}{c}
+{\Delta {L_{{\rm{AC}}}} =  - 0.025{\text{ m}}}\\
+{\Delta {L_{{\rm{CE}}}} =  - 0.012{\text{ m}}}\\
+{\Delta {L_{\rm{BE}}} = \cfrac{1}{{120}} \approx  - 0.00833{\text{ m}}}\\
+{\Delta {L_{{\rm{CD}}}} = \cfrac{1}{{120}} \approx  - 0.00833{\text{ m}}}\\
+{\Delta {L_{{\rm{DE}}}} = \cfrac{1}{{120}} \approx 0.00833{\text{ m}}}\\
+{\Delta {L_{{\rm{AD}}}} = 0.018 - \cfrac{1}{{625}}{B_{\rm{h}}} = 0.018 - 0.0016{B_{\rm{h}}}{\text{ m}}}\\
+{\Delta {L_{{\rm{DB}}}} = 0.006 - 0.0016{B_{\rm{h}}}{\text{ m}}}
+\end{array}$$
+
+### Displacement structure due to $20 \text{ kN}$
+
+For now we'll ignore the shortening/lengethening due to $B_\text{h}$:
+
+```{figure} ./intro_data/elong.svg
+:align: center
+
+Shortening/lengthening of elements
+```
+
+This gives the following Williot-diagram with a fixed $\text{AC}$:
+
+```{figure} ./intro_data/williot.svg
+:align: center
+
+Williot diagram with fixed $\text{AC}$
+```
+
+Leading to the following displacements if $\text{AC}$ doesn't rotate:
+
+| joint | Displacement due to $20 \text{ kN}$ with fixed $\text{AC}$ in horizontal direction → $\left( \text{mm}\right)$| Displacement due to $20 \text{ kN}$ with fixed $\text{AC}$ = in vertical direction ↓ $\left( \text{mm}\right)$|
+| :-:|:-:|:-:|
+|$\text{A}$|$0$|$0$|
+|$\text{C}$|$-13$|$21$|
+|$\text{D}$|$18$|$-12.5$|
+|$\text{E}$|$-25$|$-55$|
+|$\text{B}$|$24$|$-103$|
+
+$\text{B}$ Shouldn't move vertically, so this structure has to be rotated back with $\theta  \approx \cfrac{{103}}{{12000}} \approx 8.5476 \cdot {10^{ - 3}}{\text{ rad}}$ ⟳, leading to:
+
+| joint | Displacement due to $\theta$ in horizontal direction → $\left( \text{mm}\right)$| Displacement due to $\theta$ in vertical direction ↓ $\left( \text{mm}\right)$|
+| :-:|:-:|:-:|
+|$\text{A}$|$0$|$0$|
+|$\text{C}$|$34$|$26$|
+|$\text{D}$|$0$|$51$|
+|$\text{E}$|$34$|$77$|
+|$\text{B}$|$0$|$103$|
+
+Resulting in total displacements of:
+
+| joint | Displacement due to in horizontal direction → $\left( \text{mm}\right)$| Displacement in vertical direction ↓ $\left( \text{mm}\right)$|
+| :-:|:-:|:-:|
+|$\text{A}$|$0$|$0$|
+|$\text{C}$|$21$|$47$|
+|$\text{D}$|$18$|$39$|
+|$\text{E}$|$9$|$22$|
+|$\text{B}$|$24$|$0$|
+
+```{figure} ./intro_data/displaced.svg
+:align: center
+
+Displaced structure
+```
+
+### Displacement structure due to $B_\text{h}$
+
+For the displacement due to $B_\text{h}$ in $\text{kN}$, the following Williot-diagram with a fixed $\text{AD}$ can bre drawn:
+
+```{figure} ./intro_data/williot2.svg
+:align: center
+
+Williot diagram with fixed $\text{AD}$
+```
+Leading to the following displacements if $\text{AD}$ doesn't rotate:
+
+| joint | Displacement due to $B_\text{h}$ in horizontal direction → | Displacement due to $B_\text{h}$ in vertical direction ↓|
+| :-:|:-:|:-:|
+|$\text{A}$|$0$|$0$|
+|$\text{C}$|$-0.8{B_{\rm{h}}}$|$-0.6{B_{\rm{h}}}$|
+|$\text{D}$|$-1.6{B_{\rm{h}}}$|$0$|
+|$\text{E}$|$-0.8{B_{\rm{h}}}$|$0.6{B_{\rm{h}}}$|
+|$\text{B}$|$-3.2{B_{\rm{h}}}$|$2.4{B_{\rm{h}}}$|
+
+Again, $\text{B}$ Shouldn't move vertically, so this structure has to be rotated back with $\theta = \cfrac{2.4{B_{\rm{h}}}}{{12000}} = 0.0002{B_{\rm{h}}}{\text{ rad}}$ ⟲, leading to: 
+
+| joint | Displacement due to $\theta$ in horizontal direction → $\left( \text{mm}\right)$| Displacement due to $\theta$ in vertical direction ↓ $\left( \text{mm}\right)$|
+| :-:|:-:|:-:|
+|$\text{A}$|$0$|$0$|
+|$\text{C}$|$-0.8 B_\text{h}$|$-0.6 B_\text{h}$|
+|$\text{D}$|$0$|$-1.2B_\text{h}$|
+|$\text{E}$|$-0.8 B_\text{h}$|$-1.8B_\text{h}$|
+|$\text{B}$|$0$|$-2.4 B_\text{h}$|
+
+Resulting in total displacements of:
+
+| joint | Displacement due to in horizontal direction → $\left( \text{mm}\right)$| Displacement in vertical direction ↓ $\left( \text{mm}\right)$|
+| :-:|:-:|:-:|
+|$\text{A}$|$0$|$0$|
+|$\text{C}$|$-1.6B_\text{h}$|$-1.2B_\text{h}$|
+|$\text{D}$|$-1.6{B_{\rm{h}}}$|$-1.2B_\text{h}$|
+|$\text{E}$|$-1.6B_\text{h}$|$-1.2B_\text{h}$|
+|$\text{B}$|$-3.2B_\text{h}$|$0$|
+
+```{figure} ./intro_data/displaced2.svg
+:align: center
+
+Displaced structure
+```
+
+### Compatibility conditions
+
+Now, we can fill in the compatibility conditions:
+
+$${u_{{\rm{B,h}}}} = 0 \to 0.024 - 0.0032{B_{\rm{h}}} = 0 \to {B_{\text{h}}} =  7.5{\text{ kN}}$$
+
+### Section forces statically indeterminate structure
+
+The section forces can be calculated by filling in the resulting $B_\text{h}$ in our previous expressions:
+
+| Element | Normal force $\text{kN}$|
+| :-:|:-:|
+|$\text{AC}$|-18.75|
+|$\text{CE}$|-7.5|
+|$\text{BE}$|-6.25|
+|$\text{CD}$|-6.25|
+|$\text{DE}$|6.25|
+|$\text{AD}$|3.75|
+|$\text{DB}$|-3.75|
+
+### Displacements statically indeterminate structure
+Now, the displacements can be found as well by filling in the resulting $B_\text{h}$ in our previous expressions:
+
+| joint | Displacement in horizontal direction → $\left( \text{mm}\right)$| Displacement in horizontal direction ↓ $\left( \text{mm}\right)$|
+| :-:|:-:|:-:|
+|$\text{A}$|$0$|$0$|
+|$\text{C}$|$9$|$38$|
+|$\text{D}$|$6$|$29.833$|
+|$\text{E}$|$3$|$12.66$|
+|$\text{B}$|$0$|$0$|
+
+```{figure} ./intro_data/displaced3.svg
+:align: center
+
+Displaced structure
+```
