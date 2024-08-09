@@ -59,8 +59,8 @@ parse:
     week3: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
-      |Homework deadlines |[Read theory and make homework exercises kinematic and constitutive relations](homework3.1) <br>{bdg-secondary}`Prerequisites` ||[Read theory and make homework exercises differential equations](homework3.2)  <br>{bdg-primary}`Prerequisites`|||Monday: [Read theory and make homework exercises Extension](homework4.1) <br>{bdg-secondary}`Prerequisites`|
-      |Class activities| [Guided practice on kinematic and constitutive relations](lesson3.1) <br>{bdg-secondary-line}`Prerequisites`||[Guided practice on differential equations](lesson3.2) <br>{bdg-primary-line}`New content`||[Demonstration Force method extension](lesson3.3) <br>{bdg-primary-line}`New content`|
+      |Homework deadlines |[Read theory and make homework exercises kinematic and constitutive relations](homework3.1) <br>{bdg-secondary}`Prerequisites` ||[Read theory and make homework exercises SymPy](homework3.2)  <br>{bdg-primary}`Prerequisites`|||Monday: [Read theory and make homework exercises Extension](homework4.1) <br>{bdg-secondary}`Prerequisites`|
+      |Class activities| [Guided practice on kinematic and constitutive relations](lesson3.1) <br>{bdg-secondary-line}`Prerequisites`||[Guided practice on SymPy](lesson3.2) <br>{bdg-primary-line}`New content`||[Demonstration Force method extension](lesson3.3) <br>{bdg-primary-line}`New content`|
     week4: "To be provided"
     week5: "To be provided"
     week6: "To be provided"
