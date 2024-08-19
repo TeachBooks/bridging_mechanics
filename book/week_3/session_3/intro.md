@@ -20,7 +20,7 @@ We can find the normal force distribution using the force method. Therefore, we 
 Free-body-diagram full structure
 ```
 
-There are 4 unknown support reactions. With only 3 equilibrium equations this gives a first-order statically determinant structure.
+There are 4 unknown support reactions. With only 3 equilibrium equations for this self-contained structure, it can be concluded that this structure is a first-order statically determinant structure.
 
 To apply the force method we need to replace a part of the structure by a statically indeterminate force, which turns the structure into a statically determinate structure. To solve the statically indeterminate structure we need to include a compatibility condition.
 
