@@ -280,7 +280,7 @@ Normal force distribution
 ### Displacements statically indeterminate structure
 Now, the displacements can be found as well by filling in the resulting $B_\text{h}$ in our previous expressions:
 
-| joint | Displacement in horizontal direction → $\left( \text{mm}\right)$| Displacement in horizontal direction ↓ $\left( \text{mm}\right)$|
+| joint | Displacement in horizontal direction → $\left( \text{mm}\right)$| Displacement in vertical direction ↓ $\left( \text{mm}\right)$|
 | :-:|:-:|:-:|
 |$\text{A}$|$0$|$0$|
 |$\text{C}$|$9$|$38$|

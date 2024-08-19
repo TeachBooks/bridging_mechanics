@@ -18,7 +18,6 @@ Given the following structure.
 3. Draw the displaced structure
 
 
-
 ````{admonition} Solution assignment 1
 :class: tip, dropdown
 
@@ -35,8 +34,12 @@ Given the following structure.
 ````{admonition} Solution assignment 2
 :class: tip, dropdown
 
-
-
+| joint | Displacement in horizontal direction → $\left( \text{mm}\right)$| Displacement in vertical direction ↓ $\left( \text{mm}\right)$|
+| :-:|:-:|:-:|
+|$\text{A}$|$0$|$0$|
+|$\text{B}$|$6$|$0$|
+|$\text{C}$|$4$|$13$|
+|$\text{D}$|$0$|$10$|
 ````
 
 
