@@ -11,21 +11,39 @@ Given the following structure.
 :align: center
 ```
 
-1. Find the displacement of $\text{R}$
+1. Find the elongation/shrinkage of each elements
 
-2. Draw the displaced structure
+2. Find the displacement of all joints
+
+3. Draw the displaced structure
+
 
 
 ````{admonition} Solution assignment 1
 :class: tip, dropdown
 
-$96.7 \text{ mm}$ ↓
+| Element | Elongation $\left(+\right)$ / shrinkage $\left(-\right)$ $\left( \text{mm} \right)$|
+| :-: |:-:|
+|$\text{AC}$|$+4$|
+|$\text{CB}$|$+2$|
+|$\text{AD}$|$-2 \sqrt{5}$|
+|$\text{CD}$|$+3$|
+|$\text{BD}$|$-2 \sqrt{2}$|
+
 ````
 
 ````{admonition} Solution assignment 2
 :class: tip, dropdown
 
-```{figure} intro_data/ans.svg
+
+
+````
+
+
+````{admonition} Solution assignment 3
+:class: tip, dropdown
+
+```{figure} intro_data/displaced.svg
 :align: center
 ```
 
