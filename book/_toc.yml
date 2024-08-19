@@ -73,7 +73,10 @@ parts:
         sections:
         - file: external/mechanics-BSc/book/stresses_displacements/model/stress-strain
         - file: external/mechanics-BSc/book/stresses_displacements/model/fibre_model
-        - file: external/mechanics-BSc/book/stresses_displacements/model/strain_diagram
+      - file: external/mechanics-BSc/book/stresses_displacements/strain_diagram/intro
+        sections:
+        - file: external/mechanics-BSc/book/stresses_displacements/strain_diagram/extension
+        - file: external/mechanics-BSc/book/stresses_displacements/strain_diagram/bending
       - file: external/mechanics-BSc/book/stresses_displacements/kinematic/intro
         sections:
         - file: external/mechanics-BSc/book/stresses_displacements/kinematic/extension
