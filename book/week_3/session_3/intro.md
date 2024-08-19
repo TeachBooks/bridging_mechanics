@@ -251,7 +251,7 @@ Resulting in total displacements of:
 Displaced structure
 ```
 
-### Compatibility conditions
+## Solve statically indeterminate structure with compatibility conditions
 
 Now, we can fill in the compatibility conditions:
 
