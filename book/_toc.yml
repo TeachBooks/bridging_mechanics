@@ -112,6 +112,10 @@ parts:
         sections:
         - file: external/mechanics-BSc/book/stresses_displacements/displacements_truss/equations
     - file: week_4/session_1/intro
+      sections:
+      - file: week_4/homework_2/copy_1
+        sections:
+        - file: external/mechanics-BSc/book/stresses_displacements/displacements_truss/williot
     - file: week_4/homework_2/intro
     - file: week_4/session_2/intro
     - file: week_4/homework_3/intro
