@@ -98,6 +98,16 @@ parts:
   - file: week_4/intro
     sections:
     - file: week_4/homework_1/intro
+      sections:
+      - file: external/mechanics-BSc/book/stresses_displacements/model/intro
+        sections:
+        - file: external/mechanics-BSc/book/stresses_displacements/model/first-moment-area
+      - file: external/mechanics-BSc/book/statically_inderminate
+        sections:
+        - file: external/mechanics-BSc/book/statically_inderminate/determinancy
+      - file: week_4/homework_1/copy_1
+        sections:
+        - file: external/mechanics-BSc/book/stresses_displacements/displacements_truss/equations
     - file: week_4/session_1/intro
     - file: week_4/homework_2/intro
     - file: week_4/session_2/intro
