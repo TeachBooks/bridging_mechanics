@@ -1,7 +1,7 @@
 (homework4.1)=
 # Homework deadline lesson Monday September 23th
 
-As a preparation for...
+As a preparation for Monday's lesson you'll look into displacement of extension structures:
 
 ```{tableofcontents}
 ```
