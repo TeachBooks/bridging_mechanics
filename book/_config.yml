@@ -59,9 +59,13 @@ parse:
     week3: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
-      |Homework deadlines |[Read theory and make homework exercises kinematic and constitutive relations](homework3.1) <br>{bdg-secondary}`Prerequisites` ||[Read theory and make homework exercises SymPy](homework3.2)  <br>{bdg-primary}`Prerequisites`|||Monday: [Read theory and make homework exercises Extension](homework4.1) <br>{bdg-secondary}`Prerequisites`|
+      |Homework deadlines |[Read theory and make homework exercises kinematic and constitutive relations](homework3.1) <br>{bdg-secondary}`Prerequisites` ||[Read theory and make homework exercises SymPy](homework3.2)  <br>{bdg-primary}`New content`|||Monday: [Read theory and make homework exercises Extension](homework4.1) <br>{bdg-secondary}`Prerequisites`|
       |Class activities| [Guided practice on kinematic and constitutive relations](lesson3.1) <br>{bdg-secondary-line}`Prerequisites`||[Guided practice on SymPy](lesson3.2) <br>{bdg-primary-line}`New content`||[Demonstration Force method extension](lesson3.3) <br>{bdg-primary-line}`New content`|
-    week4: "To be provided"
+    week4: |
+      ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
+      |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
+      |Homework deadlines |[Read theory and make homework exercises Extension](homework4.1) <br>{bdg-secondary}`Prerequisites` ||[Read theory and make homework exercises Williot](homework4.2) <br>{bdg-secondary}`Prerequisites`||[Read theory and make homework exercises Force method extension](homework4.3)  <br>{bdg-primary}`New content`|Wednesday: [Read theory and make homework exercises Section force distribution bending](homework5.2) <br>{bdg-secondary}`Prerequisites`|
+      |Class activities| [Guided practice on extension](lesson4.1) <br>{bdg-secondary-line}`Prerequisites`||[Guided practice on Williot](lesson4.2) <br>{bdg-secondary-line}`Prerequisites`||[Guided practice on Force method extension](lesson4.3) <br>{bdg-primary-line}`New content`|
     week5: "To be provided"
     week6: "To be provided"
     week7: "To be provided"
