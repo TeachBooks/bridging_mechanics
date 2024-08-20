@@ -1,6 +1,2 @@
-# Model
-
-This chapter includes the following topics:
-
-```{tableofcontents}
+```{include} ../../external/mechanics-BSc/book/stresses_displacements/model/intro.md
 ```

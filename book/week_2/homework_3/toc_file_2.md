@@ -1,6 +1,2 @@
-# Solve section forces frame structure
-
-How to calculate section forces in frame structures is explained in the following topics:
-
-```{tableofcontents}
+```{include} ../../external/mechanics-BSc/book/support_internal_forces/internal_forces_truss/intro.md
 ```
