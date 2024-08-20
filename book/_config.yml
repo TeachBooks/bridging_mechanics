@@ -45,8 +45,8 @@ parse:
     - linkify
     - substitution
     - tasklist
-    - jinja
   myst_substitutions:
+    current_date: "{{ env.config.today }}"
     week1: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
