@@ -9,7 +9,7 @@ parts:
   - file: contact_information
   - url: https://brightspace.tudelft.nl/d2l/home/703722
     title: Brightspace announcements
-- caption: Content
+- caption: Activities
   chapters:
   - file: week_1/intro
     sections:
