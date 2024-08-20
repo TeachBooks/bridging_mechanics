@@ -120,6 +120,10 @@ parts:
         - file: external/mechanics-BSc/book/stresses_displacements/displacements_truss/williot
     - file: week_4/session_2/intro
     - file: week_4/homework_3/intro
+      sections:
+      - file: statically_inderminate/force_method/force_method
+        sections:
+        - file: statically_inderminate/force_method/extension
     - file: week_4/session_3/intro
 - caption: Miscellaneous
   chapters:
