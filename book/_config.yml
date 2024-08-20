@@ -29,10 +29,12 @@ sphinx:
       launch_buttons:
         thebe: true
     html_show_copyright: false
+    html_last_updated_fmt: '%b %d, %Y'
   extra_extensions:
     - sphinx.ext.imgconverter
     - jupyterbook_patches
     - download_link_replacer
+    - sphinx.ext.extlinks
 
 bibtex_bibfiles: 
   - external/mechanics-BSc/book/references.bib
