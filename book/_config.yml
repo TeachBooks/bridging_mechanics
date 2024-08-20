@@ -45,6 +45,7 @@ parse:
     - linkify
     - substitution
     - tasklist
+    - jinja
   myst_substitutions:
     week1: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
