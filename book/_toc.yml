@@ -121,9 +121,9 @@ parts:
     - file: week_4/session_2/intro
     - file: week_4/homework_3/intro
       sections:
-      - file: statically_inderminate/force_method/force_method
+      - file: external/mechanics-BSc/book/statically_inderminate/force_method/force_method
         sections:
-        - file: statically_inderminate/force_method/extension
+        - file: external/mechanics-BSc/book/statically_inderminate/force_method/extension
     - file: week_4/session_3/intro
 - caption: Miscellaneous
   chapters:
