@@ -125,6 +125,13 @@ parts:
         sections:
         - file: external/mechanics-BSc/book/statically_inderminate/force_method/extension
     - file: week_4/session_3/intro
+  - file: week_5/intro
+    sections:
+    - file: week_5/session_1/intro
+    - file: week_5/homework_2/intro
+    - file: week_5/session_2/intro
+    - file: week_5/homework_3/intro
+    - file: week_5/session_3/intro
 - caption: Miscellaneous
   chapters:
   - file: changelog

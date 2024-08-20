@@ -66,9 +66,13 @@ parse:
     week4: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
-      |Homework deadlines |[Read theory and make homework exercises Extension](homework4.1) <br>{bdg-secondary}`Prerequisites` ||[Read theory and make homework exercises Williot](homework4.2) <br>{bdg-secondary}`Prerequisites`||[Read theory and make homework exercises Force method extension](homework4.3)  <br>{bdg-primary}`New content`|Wednesday: [Read theory and make homework exercises Section force distribution bending](homework5.2) <br>{bdg-secondary}`Prerequisites`|
+      |Homework deadlines |[Read theory and make homework exercises Extension](homework4.1) <br>{bdg-secondary}`Prerequisites` ||[Read theory and make homework exercises Williot](homework4.2) <br>{bdg-secondary}`Prerequisites`||[Read theory and make homework exercises Force method extension](homework4.3)  <br>{bdg-primary}`New content`|Wednesday: [Read theory and make homework exercises Section force diagrams bending](homework5.2) <br>{bdg-secondary}`Prerequisites`|
       |Class activities| [Guided practice on extension](lesson4.1) <br>{bdg-secondary-line}`Prerequisites`||[Guided practice on Williot](lesson4.2) <br>{bdg-secondary-line}`Prerequisites`||[Guided practice on Force method extension](lesson4.3) <br>{bdg-primary-line}`New content`|
-    week5: "To be provided"
+    week5: |
+      ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
+      |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
+      |Homework deadlines |||[Read theory and make homework exercises Section force diagrams](homework5.2) <br>{bdg-secondary}`Prerequisites`||[Read theory and make homework exercises Displacement bending](homework5.3)  <br>{bdg-secondary}`Prerequisites`|Monday: [Read theory and make homework exercises Force method bending](homework6.1) <br>{bdg-primary}`New content`|
+      |Class activities| [Demonstration Force method bending](lesson5.1 <br>{bdg-primary-line}`New content`||[Guided practice on Section force diagrams](lesson5.2) <br>{bdg-secondary-line}`Prerequisites`||[Guided practice on Displacement bending](lesson5.3) <br>{bdg-secondary-line}`Prerequisites`|
     week6: "To be provided"
     week7: "To be provided"
     week8: "To be provided"
