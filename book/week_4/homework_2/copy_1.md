@@ -1,5 +1,2 @@
-# Solve displacements bar structures
-
-This chapter includes the following topics:
-```{tableofcontents}
+```{include} ./././external/mechanics-BSc/book/stresses_displacements/displacements_truss/intro.md
 ```
