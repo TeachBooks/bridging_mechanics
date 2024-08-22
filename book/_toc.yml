@@ -104,8 +104,10 @@ parts:
       sections:
       - file: week_4/homework_1/copy_2
         sections:
-        - file: external/mechanics-BSc/book/stresses_displacements/model/first-moment-area
         - file: external/mechanics-BSc/book/stresses_displacements/model/small_rotations
+      - file: external/mechanics-BSc/book/stresses_displacements/cross-sectional/intro
+        sections:
+        - file: external/mechanics-BSc/book/stresses_displacements/model/first-moment-area
       - file: external/mechanics-BSc/book/statically_inderminate/intro
         sections:
         - file: external/mechanics-BSc/book/statically_inderminate/determinancy
