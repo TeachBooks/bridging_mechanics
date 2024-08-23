@@ -138,7 +138,7 @@ parts:
     - file: week_5/session_2/intro
     - file: week_5/homework_3/intro
       sections:
-      - file: week_5/homework_2/copy
+      - file: week_5/homework_3/copy
         sections:
         - file: external/mechanics-BSc/book/stresses_displacements/displacements_frame/forget-me-nots
     - file: week_5/session_3/intro
