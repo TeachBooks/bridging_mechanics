@@ -138,6 +138,9 @@ parts:
         - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_beam/diagrams
     - file: week_5/session_2/intro
     - file: week_5/homework_3/intro
+      - file: week_5/homework_3/copy
+        sections:
+        - file: external/mechanics-BSc/book/stresses_displacements/displacements_frame/forget-me-nots
     - file: week_5/session_3/intro
 - caption: Miscellaneous
   chapters:
