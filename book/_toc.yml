@@ -121,6 +121,7 @@ parts:
         sections:
         - file: external/mechanics-BSc/book/stresses_displacements/displacements_truss/williot
     - file: week_4/session_2/intro
+    
     - file: week_4/homework_3/intro
       sections:
       - file: external/mechanics-BSc/book/statically_inderminate/force_method/force_method
@@ -131,6 +132,8 @@ parts:
     sections:
     - file: week_5/session_1/intro
     - file: week_5/homework_2/intro
+      sections:
+      - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_beam/diagrams
     - file: week_5/session_2/intro
     - file: week_5/homework_3/intro
     - file: week_5/session_3/intro
