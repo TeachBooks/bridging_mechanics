@@ -1,4 +1,4 @@
-# How to use this TeachBook
+# How to use this TeachBook 📖
 
 This TeachBook combines the course schedule and content. The content is shown independently as well in the [Mechanics-BSc TeachBook](https://teachbooks.github.io/mechanics-BSc).
 

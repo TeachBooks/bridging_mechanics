@@ -1,4 +1,4 @@
-# Contact information
+# Contact information 💬
 
 This course is mainly taught by Tom van Woudenberg. Furthermore, Hans Welleman teaches the topic on buckling. Please contact us if you've any questions, feedback or when you've personal circumstances which we should know.
 

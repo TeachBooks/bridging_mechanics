@@ -1,4 +1,4 @@
-# Course information
+# Course information 👨‍🏫
 
 ## Learning objectives
 At the end of this module, the student has shown it is able to:
