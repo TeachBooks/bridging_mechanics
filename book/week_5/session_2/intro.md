@@ -13,7 +13,7 @@ Given the following structure.
 
 1. Find the bending moment distribution
 2. Find the shear force distribution
-3. Find the displacement distribution
+3. Find the normal force distribution
 
 
 ````{admonition} Solution assignment 1
