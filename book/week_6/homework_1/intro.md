@@ -1,4 +1,4 @@
-(homework5.2)=
+(homework6.1)=
 # Homework deadline lesson Monday October 7th
 
 As a preparation for Monday's lesson you'll look into Force method for bending:
