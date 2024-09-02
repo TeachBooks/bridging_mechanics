@@ -4,7 +4,7 @@
 As a preparation for [Friday's lesson](lesson1.3) you'll be asked to grade your test yourself on paper using the provided model-answer. During that lesson we'll discuss the results to identify which topics you should spend more time on during this quarter.
 
 ## Grade your test
-You can view test including the model answer as soon as it's scanned at:
+You can view test including the model answer as soon as it is scanned at:
 
 - [<img height="12px" src="../../figures/ANS.svg" alt="ANS"> prerequisite test 1](https://ans.app/universities/1/courses/437261/assignments/1083762/go_to)
 - [<img height="12px" src="../../figures/ANS.svg" alt="ANS"> prerequisite test 2](https://ans.app/universities/1/courses/437261/assignments/1084137/go_to).
