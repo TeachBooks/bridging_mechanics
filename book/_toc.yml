@@ -146,6 +146,7 @@ parts:
       - file: week_6/homework_1/copy
         sections:
         - file: external/mechanics-BSc/book/statically_inderminate/force_method/bending
+    - file: week_6/session_1/intro
 - caption: Miscellaneous
   chapters:
   - file: changelog
