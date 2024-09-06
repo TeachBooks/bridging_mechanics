@@ -248,7 +248,7 @@
 :align: center
 ```
 
-## 2.4 Draw the shear stress distribution just left of $\text{C}
+## 2.4 Draw the shear stress distribution just left of $\text{C}$
 
 ### Wrong formula for $\tau$
 ```{figure} ./FMM_data/wrong_tau.png
