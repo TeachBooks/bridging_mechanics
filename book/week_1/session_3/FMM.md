@@ -237,9 +237,29 @@
 :align: center
 ```
 
+## 2.5 Draw the bending moment diagram
+
+### Bending moment diagram doesn't match loads
+```{figure} ./FMM_data/moments.png
+:align: center
+```
+
+```{figure} ./FMM_data/moments2.png
+:align: center
+```
+
+## 2.4 Draw the shear stress distribution just left of $\text{C}
+
+### Wrong formula for $\tau$
+```{figure} ./FMM_data/wrong_tau.png
+:align: center
+```
+
+
 ## 2.5 Determine the displacement at $\text{S}_2$
 
 ### Forget-me-not does not apply
 ```{figure} ./FMM_data/wrong_FMN.png
 :align: center
 ```
+
