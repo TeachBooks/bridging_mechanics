@@ -3,7 +3,7 @@
 Starting September 2nd, all changes to the book are announced here.
 
 ## 2024-09-06
-- Added frequently made mistakes prerequisite test in [week 1 session 3](week_1/session_2/FMN.md)
+- Added frequently made mistakes prerequisite test in [week 1 session 3](week_1/session_3/FMN.md)
 
 ## 2024-09-04
 - Added prerequisite test 2 file to [week 1 session 2](week_1/session_2/intro.md)
