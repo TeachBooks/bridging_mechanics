@@ -2,6 +2,9 @@
 
 Starting September 2nd, all changes to the book are announced here.
 
+## 2024-09-09
+- Removed unnecessary formula for $A_v$ in [week 2 session 1](week_2/session_1/intro.ipynb)
+
 ## 2024-09-06
 - Added frequently made mistakes prerequisite test in [week 1 session 3](week_1/session_3/FMN.md)
 
