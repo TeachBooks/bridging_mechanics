@@ -27,9 +27,9 @@ Given the following structure:
 ````{admonition} Solution assignment 2
 :class: tip, dropdown
 
-- $M = 227 \text{ kNm }$ ![](intro_data/MD.svg)
+- $M = 277 \text{ kNm }$ ![](intro_data/MD.svg)
 - $V = 28 \text{ kN }$ ![](intro_data/VD.svg)
-- $N = -254 \text{ kN }$
+- $N = -199 \text{ kN }$
 
 ````
 
