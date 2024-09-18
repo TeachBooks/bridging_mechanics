@@ -208,7 +208,7 @@ Displaced structure
 
 ### Displacement structure due to $B_\text{h}$
 
-For the displacement due to $B_\text{h}$ in $\text{kN}$, the following Williot-diagram with a fixed $\text{AD}$ can bre drawn:
+For the displacement due to $B_\text{h}$ in $\text{kN}$, the following Williot-diagram with a fixed $\text{AD}$ can be drawn:
 
 ```{figure} ./intro_data/williot2.svg
 :align: center
