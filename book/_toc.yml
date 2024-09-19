@@ -153,7 +153,7 @@ parts:
       sections:
       - file: week_6/homework_2/copy
         sections:
-        - file: external/mechanics-BSc/book/support_internal_forces/model/mechanism
+        - file: external/mechanics-BSc/book/support_internal_forces/model/mechanisms
       - file: external/mechanics-BSc/book/support_internal_forces/virtual_work/virtual_work
       - file: external/mechanics-BSc/book/support_internal_forces/solve_virtual_work/solve_virtual_work
 - caption: Miscellaneous
