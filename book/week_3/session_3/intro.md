@@ -84,7 +84,7 @@ $$
 Free-body-diagram joint $\text{B}$ with resulting sections forces
 ```
 
-Now, let's continue with a section through beams $\text{AB}$, $\text{CD}$ and $\text{CE}$:
+Now, let's continue with a section through beams $\text{AD}$, $\text{CD}$ and $\text{CE}$:
 
 ```{figure} ./intro_data/FBD_AC.svg
 :align: center
@@ -96,7 +96,7 @@ $$
 \begin{array}{c}
 \sum {{F_{\rm{v}}} = 0}  \to {N_{{\rm{CD}}}} =  - 6.25{\rm{ kN}}\\
 {\sum {\left. T \right|} _{\rm{D}}} = 0 \to {N_{CE}} =  - 7.5{\rm{ kN}}\\
-\sum {{F_{\rm{h}}} = 0}  \to {N_{{\rm{BD}}}} = 11.25 - {B_{\rm{h}}}
+\sum {{F_{\rm{h}}} = 0}  \to {N_{{\rm{AD}}}} = 11.25 - {B_{\rm{h}}}
 \end{array}
 $$
 
