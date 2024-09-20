@@ -151,7 +151,7 @@
 :align: center
 ```
 
-```{figure} ./FMM_data/around_hinge3.png
+```{figure} ./FMM_data/around_hinge_3.png
 :align: center
 ```
 
