@@ -107,9 +107,7 @@ parts:
       - file: week_4/homework_1/copy_2
         sections:
         - file: external/mechanics-BSc/book/stresses_displacements/model/small_rotations
-      - file: external/mechanics-BSc/book/statically_inderminate/intro
-        sections:
-        - file: external/mechanics-BSc/book/statically_inderminate/determinancy
+      - file: external/mechanics-BSc/book/statically_inderminate/determinancy
       - file: week_4/homework_1/copy_1
         sections:
         - file: external/mechanics-BSc/book/stresses_displacements/displacements_truss/equations
