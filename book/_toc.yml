@@ -24,121 +24,107 @@ parts:
     - file: week_2/session_1/intro
     - file: week_2/homework_2/intro
       sections:
-      - file: external/mechanics-BSc/book/support_internal_forces/intro
+      - file: external/mechanics-BSc/book/support_internal_forces/model/intro
         sections:
-        - file: external/mechanics-BSc/book/support_internal_forces/model/intro
-          sections:
-          - file: external/mechanics-BSc/book/support_internal_forces/model/elements
-          - file: external/mechanics-BSc/book/support_internal_forces/model/coordinate
-          - file: external/mechanics-BSc/book/support_internal_forces/model/loads
-          - file: external/mechanics-BSc/book/support_internal_forces/model/internal_forces
-          - file: external/mechanics-BSc/book/support_internal_forces/model/supports
-          - file: external/mechanics-BSc/book/support_internal_forces/model/hinges
-          - file: external/mechanics-BSc/book/support_internal_forces/model/FBD
-          - file: external/mechanics-BSc/book/support_internal_forces/model/structures
-        - file: external/mechanics-BSc/book/support_internal_forces/transforming_forces/Resolution_of_forces
-        - file: external/mechanics-BSc/book/support_internal_forces/equilibrium/intro
-          sections:
-          - file: external/mechanics-BSc/book/support_internal_forces/equilibrium/particle
-          - file: external/mechanics-BSc/book/support_internal_forces/equilibrium/particle3d
-          - file: external/mechanics-BSc/book/support_internal_forces/equilibrium/rigid_body
-          - file: external/mechanics-BSc/book/support_internal_forces/equilibrium/rigid_body3d
-        - file: external/mechanics-BSc/book/support_internal_forces/support_reactions/intro
-          sections:
-          - file: external/mechanics-BSc/book/support_internal_forces/support_reactions/equilibrium
-        - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_truss/intro
-          sections:
-          - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_truss/zero-force
-          - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_truss/cross_section
-        - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_beam/intro
-          sections:
-          - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_beam/cross_section
+        - file: external/mechanics-BSc/book/support_internal_forces/model/elements
+        - file: external/mechanics-BSc/book/support_internal_forces/model/coordinate
+        - file: external/mechanics-BSc/book/support_internal_forces/model/loads
+        - file: external/mechanics-BSc/book/support_internal_forces/model/internal_forces
+        - file: external/mechanics-BSc/book/support_internal_forces/model/supports
+        - file: external/mechanics-BSc/book/support_internal_forces/model/hinges
+        - file: external/mechanics-BSc/book/support_internal_forces/model/FBD
+        - file: external/mechanics-BSc/book/support_internal_forces/model/structures
+      - file: external/mechanics-BSc/book/support_internal_forces/transforming_forces/Resolution_of_forces
+      - file: external/mechanics-BSc/book/support_internal_forces/equilibrium/intro
+        sections:
+        - file: external/mechanics-BSc/book/support_internal_forces/equilibrium/particle
+        - file: external/mechanics-BSc/book/support_internal_forces/equilibrium/particle3d
+        - file: external/mechanics-BSc/book/support_internal_forces/equilibrium/rigid_body
+        - file: external/mechanics-BSc/book/support_internal_forces/equilibrium/rigid_body3d
+      - file: external/mechanics-BSc/book/support_internal_forces/support_reactions/intro
+        sections:
+        - file: external/mechanics-BSc/book/support_internal_forces/support_reactions/equilibrium
+      - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_truss/intro
+        sections:
+        - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_truss/zero-force
+        - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_truss/cross_section
+      - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_beam/intro
+        sections:
+        - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_beam/cross_section
     - file: week_2/session_2/intro
     - file: week_2/homework_3/intro
       sections:
-      - file: week_2/homework_3/toc_file_1
+      - file: external/mechanics-BSc/book/support_internal_forces/ode/intro
         sections:
-        - file: external/mechanics-BSc/book/support_internal_forces/ode/intro
-          sections:
-          - file: external/mechanics-BSc/book/support_internal_forces/ode/extension
-          - file: external/mechanics-BSc/book/support_internal_forces/ode/bending
-          - file: external/mechanics-BSc/book/support_internal_forces/ode/cable
-        - file: week_2/homework_3/toc_file_2
-          sections:
-          - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_beam/ode
-        - file: external/mechanics-BSc/book/support_internal_forces/cable/intro
-          sections:
-          - file: external/mechanics-BSc/book/support_internal_forces/cable/equilibrium
-          - file: external/mechanics-BSc/book/support_internal_forces/cable/ode
+        - file: external/mechanics-BSc/book/support_internal_forces/ode/extension
+        - file: external/mechanics-BSc/book/support_internal_forces/ode/bending
+        - file: external/mechanics-BSc/book/support_internal_forces/ode/cable
+      - file: week_2/homework_3/toc_file_2
+        sections:
+        - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_beam/ode
+      - file: external/mechanics-BSc/book/support_internal_forces/cable/intro
+        sections:
+        - file: external/mechanics-BSc/book/support_internal_forces/cable/equilibrium
+        - file: external/mechanics-BSc/book/support_internal_forces/cable/ode
     - file: week_2/session_3/intro
   - file: week_3/intro
     sections:
     - file: week_3/homework_1/intro
       sections:
-      - file: external/mechanics-BSc/book/stresses_displacements/intro
+      - file: external/mechanics-BSc/book/stresses_displacements/model/intro
         sections:
-        - file: external/mechanics-BSc/book/stresses_displacements/model/intro
-          sections:
-          - file: external/mechanics-BSc/book/stresses_displacements/model/stress-strain
-          - file: external/mechanics-BSc/book/stresses_displacements/model/fibre_model
-        - file: external/mechanics-BSc/book/stresses_displacements/strain_diagram/intro
-          sections:
-          - file: external/mechanics-BSc/book/stresses_displacements/strain_diagram/extension
-          - file: external/mechanics-BSc/book/stresses_displacements/strain_diagram/bending
-        - file: external/mechanics-BSc/book/stresses_displacements/kinematic/intro
-          sections:
-          - file: external/mechanics-BSc/book/stresses_displacements/kinematic/extension
-          - file: external/mechanics-BSc/book/stresses_displacements/kinematic/bending
-        - file: external/mechanics-BSc/book/stresses_displacements/constitutive/intro
-          sections:
-          - file: external/mechanics-BSc/book/stresses_displacements/constitutive/extension
-          - file: external/mechanics-BSc/book/stresses_displacements/constitutive/bending
-        - file: external/mechanics-BSc/book/stresses_displacements/displacements_truss/intro
-          sections:
-          - file: external/mechanics-BSc/book/stresses_displacements/displacements_truss/ode
-        - file: external/mechanics-BSc/book/stresses_displacements/displacements_frame/intro
-          sections:
-          - file: external/mechanics-BSc/book/stresses_displacements/displacements_frame/ode
+        - file: external/mechanics-BSc/book/stresses_displacements/model/stress-strain
+        - file: external/mechanics-BSc/book/stresses_displacements/model/fibre_model
+      - file: external/mechanics-BSc/book/stresses_displacements/strain_diagram/intro
+        sections:
+        - file: external/mechanics-BSc/book/stresses_displacements/strain_diagram/extension
+        - file: external/mechanics-BSc/book/stresses_displacements/strain_diagram/bending
+      - file: external/mechanics-BSc/book/stresses_displacements/kinematic/intro
+        sections:
+        - file: external/mechanics-BSc/book/stresses_displacements/kinematic/extension
+        - file: external/mechanics-BSc/book/stresses_displacements/kinematic/bending
+      - file: external/mechanics-BSc/book/stresses_displacements/constitutive/intro
+        sections:
+        - file: external/mechanics-BSc/book/stresses_displacements/constitutive/extension
+        - file: external/mechanics-BSc/book/stresses_displacements/constitutive/bending
+      - file: external/mechanics-BSc/book/stresses_displacements/displacements_truss/intro
+        sections:
+        - file: external/mechanics-BSc/book/stresses_displacements/displacements_truss/ode
+      - file: external/mechanics-BSc/book/stresses_displacements/displacements_frame/intro
+        sections:
+        - file: external/mechanics-BSc/book/stresses_displacements/displacements_frame/ode
     - file: week_3/session_1/intro
     - file: week_3/homework_2/intro
       sections:
-      - file: external/mechanics-BSc/book/tools/intro
-        sections:
-        - file: external/mechanics-BSc/book/tools/sympy
-        - file: external/mechanics-BSc/book/tools/sympy_mech
+      - file: external/mechanics-BSc/book/tools/sympy
+      - file: external/mechanics-BSc/book/tools/sympy_mech
     - file: week_3/session_2/intro
     - file: week_3/session_3/intro
   - file: week_4/intro
     sections:
     - file: week_4/homework_1/intro
       sections:
-      - file: week_4/homework_1/toc_file_1
+      - file: week_4/homework_1/copy_2
         sections:
-        - file: week_4/homework_1/copy_2
-          sections:
-          - file: external/mechanics-BSc/book/stresses_displacements/model/small_rotations
-        - file: week_4/homework_1/copy_1
-          sections:
-          - file: external/mechanics-BSc/book/stresses_displacements/displacements_truss/equations
+        - file: external/mechanics-BSc/book/stresses_displacements/model/small_rotations
       - file: external/mechanics-BSc/book/statically_inderminate/intro
         sections:
         - file: external/mechanics-BSc/book/statically_inderminate/determinancy
+      - file: week_4/homework_1/copy_1
+        sections:
+        - file: external/mechanics-BSc/book/stresses_displacements/displacements_truss/equations
     - file: week_4/session_1/intro
     - file: week_4/homework_2/intro
       sections:
-      - file: week_4/homework_2/toc_file_1
+      - file: week_4/homework_2/copy_1
         sections:
-        - file: week_4/homework_2/copy_1
-          sections:
-          - file: external/mechanics-BSc/book/stresses_displacements/displacements_truss/williot
+        - file: external/mechanics-BSc/book/stresses_displacements/displacements_truss/williot
     - file: week_4/session_2/intro
     - file: week_4/homework_3/intro
       sections:
-      - file: week_4/homework_3/toc_file_1
+      - file: external/mechanics-BSc/book/statically_inderminate/force_method/force_method
         sections:
-        - file: external/mechanics-BSc/book/statically_inderminate/force_method/force_method
-          sections:
-          - file: external/mechanics-BSc/book/statically_inderminate/force_method/extension
+        - file: external/mechanics-BSc/book/statically_inderminate/force_method/extension
     - file: week_4/session_3/intro
   - file: week_5/intro
     sections:
