@@ -48,7 +48,7 @@ Free-body-diagram full structure
 $$
 \begin{array}{c}
 \sum {{{\left. T \right|}_{\rm{A}}} = 0}  \to {B_{\rm{v}}} = 5{\text{ kN}}\\
-\sum {{F_{\rm{v}}} = 0}  \to {A_{\rm{v}}} = 5{\text{ kN}}\\
+\sum {{F_{\rm{v}}} = 0}  \to {A_{\rm{v}}} = 15{\text{ kN}}\\
 \sum {{F_{\rm{h}}} = 0}  \to {A_{\rm{h}}} = {B_{\rm{h}}}
 \end{array}
 $$
@@ -114,7 +114,7 @@ Thirdly, let's continue with the joint $\text{D}$:
 Free-body-diagram joint $\text{D}$
 ```
 
-$$\sum {{F_{\rm{v}}} = 0}  \to {N_{{\rm{DE}}}} =  - 6.25{\text{ kN}}$$
+$$\sum {{F_{\rm{v}}} = 0}  \to {N_{{\rm{DE}}}} =  6.25{\text{ kN}}$$
 
 ```{figure} ./intro_data/FBD_D_sol.svg
 :align: center
