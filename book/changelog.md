@@ -2,6 +2,9 @@
 
 Starting September 2nd, all changes to the book are announced here.
 
+## 2024-09-19
+- Added [week 6 homework session 2](week_6/homework_2/intro.md)
+
 ## 2024-09-09
 - Removed unnecessary formula for $A_v$ in [week 2 session 1](week_2/session_1/intro.ipynb)
 
