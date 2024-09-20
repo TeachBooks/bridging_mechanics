@@ -126,15 +126,19 @@ parts:
     - file: week_4/session_1/intro
     - file: week_4/homework_2/intro
       sections:
-      - file: week_4/homework_2/copy_1
+      - file: week_4/homework_2/toc_file_1
         sections:
-        - file: external/mechanics-BSc/book/stresses_displacements/displacements_truss/williot
+        - file: week_4/homework_2/copy_1
+          sections:
+          - file: external/mechanics-BSc/book/stresses_displacements/displacements_truss/williot
     - file: week_4/session_2/intro
     - file: week_4/homework_3/intro
       sections:
-      - file: external/mechanics-BSc/book/statically_inderminate/force_method/force_method
+      - file: week_4/homework_3/toc_file_1
         sections:
-        - file: external/mechanics-BSc/book/statically_inderminate/force_method/extension
+        - file: external/mechanics-BSc/book/statically_inderminate/force_method/force_method
+          sections:
+          - file: external/mechanics-BSc/book/statically_inderminate/force_method/extension
     - file: week_4/session_3/intro
   - file: week_5/intro
     sections:
