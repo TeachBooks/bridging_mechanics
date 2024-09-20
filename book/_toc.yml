@@ -122,9 +122,7 @@ parts:
           - file: external/mechanics-BSc/book/stresses_displacements/displacements_truss/equations
       - file: external/mechanics-BSc/book/statically_inderminate/intro
         sections:
-        - file: external/mechanics-BSc/book/statically_inderminate/intro
-          sections:
-          - file: external/mechanics-BSc/book/statically_inderminate/determinancy
+        - file: external/mechanics-BSc/book/statically_inderminate/determinancy
     - file: week_4/session_1/intro
     - file: week_4/homework_2/intro
       sections:
