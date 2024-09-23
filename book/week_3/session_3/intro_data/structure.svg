@@ -140,12 +140,12 @@
 		</g>
 		<g id="shape53-59" v:mID="53" v:groupContext="shape" transform="translate(14.5482,-0.375)">
 			<title>Blad.53</title>
-			<desc>EA = 2000 kN</desc>
+			<desc>EA = 3750 kN</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="85.0394" cy="159.301" width="170.08" height="14.1732"/>
 			<rect x="0" y="152.214" width="170.079" height="14.1732" class="st6"/>
 			<text x="50.49" y="162.9" class="st9" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>EA<tspan class="st10"> </tspan><tspan
-						class="st10">= 2000 kN</tspan></text>		</g>
+						class="st10">= 3750 kN</tspan></text>		</g>
 		<g id="shape54-64" v:mID="54" v:groupContext="shape" transform="translate(0.375,-71.2411)">
 			<title>Blad.54</title>
 			<desc>A</desc>

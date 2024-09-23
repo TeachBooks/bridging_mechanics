@@ -15,7 +15,7 @@
 		.st5 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
 		.st6 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
 		.st7 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
-		.st8 {marker-end:url(#mrkr4-467);marker-start:url(#mrkr4-465);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st8 {marker-end:url(#mrkr4-464);marker-start:url(#mrkr4-462);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
 		.st9 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.1219512195122}
 		.st10 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
 		.st11 {fill:#000000;font-family:Times New Roman;font-size:1.00001em}
@@ -27,11 +27,11 @@
 		<g id="lend4">
 			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
 		</g>
-		<marker id="mrkr4-465" class="st9" v:arrowType="4" v:arrowSize="1" v:setback="14.96" refX="14.96" orient="auto"
+		<marker id="mrkr4-462" class="st9" v:arrowType="4" v:arrowSize="1" v:setback="14.96" refX="14.96" orient="auto"
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend4" transform="scale(8.2) "/>
 		</marker>
-		<marker id="mrkr4-467" class="st9" v:arrowType="4" v:arrowSize="1" v:setback="16.4" refX="-16.4" orient="auto"
+		<marker id="mrkr4-464" class="st9" v:arrowType="4" v:arrowSize="1" v:setback="16.4" refX="-16.4" orient="auto"
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend4" transform="scale(-8.2,-8.2) "/>
 		</marker>
@@ -831,7 +831,7 @@
 			<title>Rol.836</title>
 			<g id="group837-399" transform="translate(0.261477,-2.83465)" v:mID="837" v:groupContext="group">
 				<title>Scharnier</title>
-				<g id="shape838-400" v:mID="838" v:groupContext="shape" transform="translate(2.79729,0)">
+				<g id="shape838-400" v:mID="838" v:groupContext="shape" transform="translate(2.79729,2.84217E-14)">
 					<title>Blad.838</title>
 					<path d="M0 156.41 L13.99 156.41 L6.99 145.07 L0 156.41 Z" class="st4"/>
 				</g>
@@ -839,23 +839,23 @@
 					<title>Blad.839</title>
 					<path d="M0 156.41 L2.8 156.41" class="st5"/>
 				</g>
-				<g id="shape840-405" v:mID="840" v:groupContext="shape" transform="translate(16.7838,0)">
+				<g id="shape840-405" v:mID="840" v:groupContext="shape" transform="translate(16.7838,2.84217E-14)">
 					<title>Blad.840</title>
 					<path d="M0 156.41 L2.8 156.41" class="st5"/>
 				</g>
 			</g>
 		</g>
-		<g id="shape842-408" v:mID="842" v:groupContext="shape" transform="translate(277.25,-49.8078) rotate(49.7611)">
+		<g id="shape842-408" v:mID="842" v:groupContext="shape" transform="translate(269.694,-54.4748) rotate(47.4593)">
 			<title>Ligger, 2 pt.842</title>
-			<path d="M0 156.41 L63.19 156.41" class="st6"/>
+			<path d="M0 156.41 L65.4 156.41" class="st6"/>
 		</g>
 		<g id="shape843-411" v:mID="843" v:groupContext="shape" transform="translate(-83.0277,-10.0944) rotate(-45.5355)">
 			<title>Ligger, 2 pt.843</title>
 			<path d="M0 156.41 L64.34 156.41" class="st6"/>
 		</g>
-		<g id="shape844-414" v:mID="844" v:groupContext="shape" transform="translate(69.3682,-102.805) rotate(-1.57508)">
+		<g id="shape844-414" v:mID="844" v:groupContext="shape" transform="translate(69.2778,-102.803) rotate(-1.60823)">
 			<title>Ligger, 2 pt.844</title>
-			<path d="M0 156.41 L84.22 156.41" class="st6"/>
+			<path d="M0 156.41 L80.82 156.41" class="st6"/>
 		</g>
 		<g id="shape845-417" v:mID="845" v:groupContext="shape" transform="translate(98.8542,-47.7031) rotate(-5.73605)">
 			<title>Ligger, 2 pt.845</title>
@@ -869,13 +869,13 @@
 			<title>Ligger, 2 pt.847</title>
 			<path d="M0 156.41 L67.99 156.41" class="st6"/>
 		</g>
-		<g id="shape848-426" v:mID="848" v:groupContext="shape" transform="translate(282.081,146.258) rotate(127.416)">
+		<g id="shape848-426" v:mID="848" v:groupContext="shape" transform="translate(282.251,141.444) rotate(125.206)">
 			<title>Ligger, 2 pt.848</title>
-			<path d="M0 156.41 L71.38 156.41" class="st6"/>
+			<path d="M0 156.41 L69.33 156.41" class="st6"/>
 		</g>
 		<g id="group849-429" transform="translate(18.6752,-45.6043)" v:mID="849" v:groupContext="group">
 			<title>Scharnieroplegging.849</title>
-			<g id="shape850-430" v:mID="850" v:groupContext="shape" transform="translate(2.83465,0)">
+			<g id="shape850-430" v:mID="850" v:groupContext="shape" transform="translate(2.83465,2.84217E-14)">
 				<title>Blad.850</title>
 				<path d="M0 156.41 L14.17 156.41 L7.09 145.07 L0 156.41 Z" class="st4"/>
 			</g>
@@ -883,7 +883,7 @@
 				<title>Blad.851</title>
 				<path d="M0 156.41 L2.83 156.41" class="st5"/>
 			</g>
-			<g id="shape852-435" v:mID="852" v:groupContext="shape" transform="translate(17.0079,0)">
+			<g id="shape852-435" v:mID="852" v:groupContext="shape" transform="translate(17.0079,2.84217E-14)">
 				<title>Blad.852</title>
 				<path d="M0 156.41 L2.83 156.41" class="st5"/>
 			</g>
@@ -892,7 +892,7 @@
 			<title>Scharnier.857</title>
 			<ellipse cx="2.12598" cy="154.28" rx="2.12598" ry="2.12598" class="st7"/>
 		</g>
-		<g id="shape858-440" v:mID="858" v:groupContext="shape" transform="translate(155.73,-103.053)">
+		<g id="shape858-440" v:mID="858" v:groupContext="shape" transform="translate(152.329,-103.053)">
 			<title>Scharnier.858</title>
 			<ellipse cx="2.12598" cy="154.28" rx="2.12598" ry="2.12598" class="st7"/>
 		</g>
@@ -900,36 +900,32 @@
 			<title>Scharnier.859</title>
 			<ellipse cx="2.12598" cy="154.28" rx="2.12598" ry="2.12598" class="st7"/>
 		</g>
-		<g id="shape860-444" v:mID="860" v:groupContext="shape" transform="translate(198.675,255.868) rotate(180)">
-			<title>Blad.860</title>
-			<path d="M0 156.41 L18.14 156.41" class="st5"/>
-		</g>
-		<g id="shape861-447" v:mID="861" v:groupContext="shape" transform="translate(196.549,-54.8169)">
+		<g id="shape861-444" v:mID="861" v:groupContext="shape" transform="translate(196.549,-54.8169)">
 			<title>Scharnier.861</title>
 			<ellipse cx="2.12598" cy="154.28" rx="2.12598" ry="2.12598" class="st7"/>
 		</g>
-		<g id="shape862-449" v:mID="862" v:groupContext="shape" transform="translate(71.5413,-100.738)">
+		<g id="shape862-446" v:mID="862" v:groupContext="shape" transform="translate(71.5413,-100.738)">
 			<title>Scharnier.862</title>
 			<ellipse cx="2.12598" cy="154.28" rx="2.12598" ry="2.12598" class="st7"/>
 		</g>
-		<g id="group3029-451" transform="translate(170.329,-14.4232)" v:mID="3029" v:groupContext="group">
+		<g id="group3029-448" transform="translate(170.329,-14.4232)" v:mID="3029" v:groupContext="group">
 			<title>Maatlijn.3029</title>
-			<g id="group3030-452" transform="translate(0,-9.92126)" v:mID="3030" v:groupContext="group">
+			<g id="group3030-449" transform="translate(0,-9.92126)" v:mID="3030" v:groupContext="group">
 				<title>Maatlijn.31</title>
-				<g id="shape3031-453" v:mID="3031" v:groupContext="shape" transform="translate(156.406,147.902) rotate(90)">
+				<g id="shape3031-450" v:mID="3031" v:groupContext="shape" transform="translate(156.406,147.902) rotate(90)">
 					<title>Blad.3031</title>
 					<path d="M0 156.41 L8.5 156.41" class="st2"/>
 				</g>
-				<g id="shape3032-456" v:mID="3032" v:groupContext="shape" transform="translate(184.752,147.902) rotate(90)">
+				<g id="shape3032-453" v:mID="3032" v:groupContext="shape" transform="translate(184.752,147.902) rotate(90)">
 					<title>Blad.3032</title>
 					<path d="M0 156.41 L8.5 156.41" class="st2"/>
 				</g>
-				<g id="shape3033-459" v:mID="3033" v:groupContext="shape" transform="translate(0,-4.25197)">
+				<g id="shape3033-456" v:mID="3033" v:groupContext="shape" transform="translate(0,-4.25197)">
 					<title>Blad.3033</title>
 					<path d="M3.74 156.41 L4.1 156.41 L24.25 156.41" class="st8"/>
 				</g>
 			</g>
-			<g id="shape3034-468" v:mID="3034" v:groupContext="shape" transform="translate(-35.4331,2.84217E-14)">
+			<g id="shape3034-465" v:mID="3034" v:groupContext="shape" transform="translate(-35.4331,5.68434E-14)">
 				<title>Blad.3034</title>
 				<desc>2 m / 100 mm</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>

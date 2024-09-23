@@ -285,7 +285,7 @@ Now, the displacements can be found as well by filling in the resulting $B_\text
 |$\text{A}$|$0$|$0$|
 |$\text{C}$|$9$|$38$|
 |$\text{D}$|$6$|$29.833$|
-|$\text{E}$|$3$|$12.66$|
+|$\text{E}$|$-3$|$12.66$|
 |$\text{B}$|$0$|$0$|
 
 ```{figure} ./intro_data/displaced3.svg
