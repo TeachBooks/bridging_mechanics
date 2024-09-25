@@ -68,7 +68,7 @@ $M_\text{D} = 144 \text{ kNm} $ (◠)
 ````{admonition} Solution assignment 6
 :class: tip, dropdown
 
-$V_\text{S}_1 = 72 \text{ kN} $ (⎺|⎽)
+$V_{\text{S}_1} = 72 \text{ kN} $ (⎺|⎽)
 
 ````
 
