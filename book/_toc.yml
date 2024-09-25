@@ -154,6 +154,7 @@ parts:
         - file: external/mechanics-BSc/book/support_internal_forces/model/mechanisms
       - file: external/mechanics-BSc/book/support_internal_forces/virtual_work/virtual_work
       - file: external/mechanics-BSc/book/support_internal_forces/solve_virtual_work/solve_virtual_work
+    - file: week_6/session_2/intro
 - caption: Miscellaneous
   chapters:
   - file: changelog

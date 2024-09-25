@@ -2,6 +2,9 @@
 
 Starting September 2nd, all changes to the book are announced here.
 
+## 2024-09-25
+- Added [Week 6 session 2](week_6/session_2/intro.md)
+
 ## 2024-09-19
 - Added [week 6 homework session 2](week_6/homework_2/intro.md)
 
