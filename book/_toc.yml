@@ -155,6 +155,12 @@ parts:
       - file: external/mechanics-BSc/book/support_internal_forces/virtual_work/virtual_work
       - file: external/mechanics-BSc/book/support_internal_forces/solve_virtual_work/solve_virtual_work
     - file: week_6/session_2/intro
+    - file: week_6/homework_3/intro
+      sections:
+      - file: week_6/homework_3/copy
+        sections:
+        - file: external/mechanics-BSc/book/statically_inderminate/force_method/moveable_nodes
+    - file: week_6/session_3/intro
 - caption: Miscellaneous
   chapters:
   - file: changelog
