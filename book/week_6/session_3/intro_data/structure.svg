@@ -163,104 +163,107 @@
 			<text x="20.86" y="136.16" class="st10" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>EI<tspan
 						class="st11"> </tspan><tspan class="st11">= 20 MNm</tspan><tspan dy="-0.198em" class="st12"
 						v:baseFontSize="12">2</tspan></text>		</g>
-		<g id="shape40-91" v:mID="40" v:groupContext="shape" transform="translate(171.532,20.6843) rotate(-45)">
-			<title>Blad.40</title>
-			<desc>EI = 20 MNm2</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="56.6929" cy="132.561" width="113.39" height="14.1732"/>
-			<rect x="0" y="125.474" width="113.386" height="14.1732" class="st9"/>
-			<text x="13.36" y="136.16" class="st10" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>EI<tspan
-						class="st11"> </tspan><tspan class="st11">= 20      MNm</tspan><tspan dy="-0.198em" class="st12"
-						v:baseFontSize="12">2</tspan></text>		</g>
-		<g id="shape41-97" v:mID="41" v:groupContext="shape" transform="translate(205.321,-13.4074) rotate(-45)">
+		<g id="shape41-91" v:mID="41" v:groupContext="shape" transform="translate(182.405,9.87356) rotate(-45)">
 			<title>Blad.41</title>
-			<rect v:rectContext="foreign" x="0" y="122.668" width="18.9921" height="16.9795" class="st9"/>
+			<rect v:rectContext="foreign" x="0" y="120.656" width="86.9953" height="18.9921" class="st9"/>
 			<switch>
-				<foreignObject x="0" y="122.668" width="18.9921" height="16.9795"
+				<foreignObject x="0" y="120.656" width="86.9953" height="18.9921"
 						requiredExtensions="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
-					<v:foreignData v:dataType="ole" v:type="33280" v:orgSize="4096" v:data="data:metafile;base64,eNrtFk1PE1Fw3tu
-								2QEHbAhIlRFaDJBIthBCJ0ZCWshViWgjFIAdTS11htZ+0iD1pwkHiBW8eTEz8CXrwYIzhYKIn0BguHghePGg0anpSbJ339m1
-								tEJOWeAE72+mbndl98z37Xq041h88bH4Hm6APJMjla8BSxCMCOdgBqLjP5fN5g52vwI6Cn4gWkUMTrmZB5yqh+S9gFOJ4pUE
-								GBWK4zkAGyoEmrBhjLzYPpGXK+Uu62LvVOxKiy2zMlGGIgArbBStQUuxPqe81FmaaB/2PQgLtmIQrZeuvR/1E+FSqfva8Jmg
-								q/B/ByKuQgi5+lQ77hf+mMvQzWxOSTudE3or7n82DKsRqxBoeY4BaxDrEPYh7EW36J4C/V49rg4hpZW7sLCD6Z3zbQDDjklW
-								vvc2934R/vlB6eiyTUOVeZ5esJGdDaS0e45VUkCheXk2G0DkQ8I31QPbko2QJ+rleXE2ir4w5xOA+EuOITonJsJKlu4RV9jy
-								XskrXe5dRhLLmYZSTHBC8Wmo8V0dlepGyHmi32NB6w3bAXq0X3GbRf6wrlpB6gijjDm+J3knff8eZMmuPE33vRnqBeDjVQAf
-								JVUGtkReCGsYnDcpKWV9uUDE6QN+HiP3NhdOZzqdoE0CbVAsuOE9m4RR5CY9JO/HiPgwnoIdMwGtYI88QQ3AOJWFSbFsN00R
-								1K5dIH2lB6ge9mdO13CHCDvuYFlVTsl+dk0fj0VCMT4GF9RW60XpvzlWwR+LTpNtqzMBuzMi8iN4GuBOJlM/r8RBYRR7DATW
-								lTcXkQFhTY2H1mDwUCzvBTKDKxEqkF0MyrsXckUh/KKWFPfFL6khoSk2Bw7zZHIcUyEQn4xEUeeKzM5o6w4TgMPnGZOV6eia
-								ESaw+1KksDnS6R7J225mge+Rb60Gk99nckFWyR7KL/UGk7DYPWxaVbEdwMLvIOS5cbwwi4e4IDgSVLPu5bXUEXSQUAeNDMEU
-								S3mMYrIyyMv8pLGAAankFWkUUrCB6Ev6oGRFDExRVQIFrBj0zdi4FeMrlqP5wIJNKq1GAN3BbYnqWj15OMmT30x9WRCVa+D5
-								fMEPSX/rM7/YPbcVv4QXw6TnL19lbJ+D05xXaBu9NDesfV3dlqnYZKJCEWQjhyU/Dc1AMz4F+cXetpFOZjMEp9/zlQPz6D33
-								YzvkPKvo5/AKEKcQz"/>
+					<v:foreignData v:dataType="ole" v:type="33280" v:orgSize="4608" v:data="data:metafile;base64,eNrtFsFuW0VwZt/
+								abV4CtklaSBTRR9RWbVVSywIKgkIc57mJkF2rCdAeKtd1X8NDsZ3EDsUnCBxAXII4ISEhOPQD4MCh6iFSKw5IEFTEDVXphUN
+								Q1Qr5VFqbmX37jBVAsqMINVXGnt3ZmX07s7Mzs/vTSmT1q68HbsI6eBkMqDe6INjCQ40KwgBCj+uNRsNnN7ZhS8F9wqA+Q0l
+								9gHCHHte33fPQw0ko0a8CFthQpH4eqtAJ7KaI8dfiemD8KBR/2RMn/+0bg+VBv6acgBlwYKNggsDW/bT7XV+zpiVo/wWYJTv
+								OwVsd63+M9KPeU7v6eb6raaH3nyHPO1CGqPq1D0/o/csO9LOtn0qPrutza83/oK4BOwm7lI8Bugl7CB8hfJQw5F0BEFE+AOj
+								VPt2l13pc2QbQTzigedvw4AF61/iGAelkDdOLvfW5v5uaVK7y5lR11rGODkcte24hV3FLRRVJTYmdVNHkC4fHJlNTz0DthW/
+								m2tCv9FIvdV75dYjhPgXtFzTISJZRJBsHBEf2JSXlSPdylykUnDxMDWO/5nULf16POCtWTc6B/cEQWe/bTmur6GfugM4/zop
+								loi4TfkmeGRBeJt3928+CrX0avbX7xBl8RTLVK8ZxWlM38KqmTsDBgE8Fg5yX94QuHeCtg3r9QPN15vGFyry9Rje8JE/hnHw
+								Rr8lvcSiQpHUYT0M0cBp+kDfwMuEZ+RqOyjy22tbFmoRnZR8eNAeJ+lMM6SrzCWo7wlNuwSlbaeeidbJUyBVVtp+6viLu7fn
+								84kjTHkNVk5jp18BY9Qp6ay/jd+it/V59Y2tL1d8hHb1NHeyVY7FozEqlC2sUld/jGpyF17EPwfD1JmG9XuxwT55eqaqkp5e
+								dZk+sUbxd0rExgvHZ2XIqmUgg9JMCxjGn7E4Xrcm86xTzzmFropgfhgDCDskJcJQO/A23GJ+ZGc2V3XyidN7J5KadMkQC6w2
+								LGJPVwrnSDIkSpYV515lnIURkasqy36nM5yhEdz51xF4aOxLP1MKh49l45o89TxK9KxSHml3bV1sazRIVDiW4W7Jrh7LjtSX
+								FGaH+3XEi4oeyY1m7xv94qAfpAFEQ0GaRXGbQmBxhIo0/sLmZoOYzvC1g8RhRH8W4idI8k89eMaCbPjRpgkXjxRQ3aW4KNGt
+								QSXniYkzf854nTdBVC/6RVc1IaMmRJjegzzmspABXlJy2MDRZLVecAsDP8LHBepKHL7zPyOPnf13RuRpsxpfxH5UoHU9PdF4
+								/B1W83LrGEfHqh89Bz+qK2Au/yavXf//l/wgGG+ZgAXL08nPpHVSkd2Baj95u61XGZ9fp+4vvhWcRNg028v7bTNjK+rdkMdi
+								GTYO/AGqO6LY="/>
 				</foreignObject>
-				<svg viewBox="0 0 596.91 534.45" enable-background="new" color-interpolation-filters="sRGB" height="16.9795"
-						preserveAspectRatio="none" width="18.9921" x="0" y="122.668">
+				<svg viewBox="0 0 596.91 130.51" enable-background="new" color-interpolation-filters="sRGB" height="18.9921"
+						preserveAspectRatio="none" width="86.9953" x="0" y="120.656">
 					<defs>
-						<clipPath id="mfid2">
-							<rect id="mfid3" x="0" y="0" width="596.91" height="534.45"/>
+						<clipPath id="mfid10">
+							<rect id="mfid11" x="0" y="0" width="596.91" height="130.51"/>
 						</clipPath>
 					</defs>
-					<g clip-path="url(#mfid2)">
-						<mask id="mfid1" fill-rule="evenodd">
+					<g clip-path="url(#mfid10)">
+						<mask id="mfid9" fill-rule="evenodd">
 							<g>
-								<rect width="597" height="534" fill="white" stroke="none"/>
+								<rect width="597" height="131" fill="white" stroke="none"/>
 							</g>
 						</mask>
-						<g mask="url(#mfid1)">
-							<g transform="matrix(0.98191, 0, 0, 0.98162, 0, 0)">
-								<g stroke-width="24.006" stroke="#000000" stroke-miterlimit="10" fill="none">
-									<path fill="none" d="M67,349 L107,328 L199,478 L301,79 L522,79"/>
+						<g mask="url(#mfid9)">
+							<g transform="matrix(0.21444, 0, 0, 0.21546, 0, 0)">
+								<g stroke-width="23.998" stroke="#000000" stroke-miterlimit="10" fill="none">
+									<path fill="none" d="M1087,349 L1127,328 L1219,478 L1321,79 L1542,79"/>
 								</g>
-								<g fill-rule="evenodd" stroke-width="24.006" stroke="none" fill="#000000">
+								<g fill-rule="evenodd" stroke-width="23.998" stroke="none" fill="#000000">
 									<polygon
-											points="64,344 117,315 200,438 294,70 522,70 522,89 308,89 209,478 190,478 97,341 70,355"/>
+											points="1084,344 1137,315 1220,438 1314,70 1542,70 1542,89 1328,89 1229,478 1210,478 1117,341 1090,355"/>
 								</g>
-								<g fill-rule="evenodd" stroke-width="24.006" stroke="#000000" stroke-miterlimit="10" fill="#000000">
+								<g fill-rule="evenodd" stroke-width="23.998" stroke="#000000" stroke-miterlimit="10" fill="#000000">
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+											font-size="222">
+										<text stroke="none" fill="#000000" x="0,444" y="0" transform="translate(2601,276)"
+												xml:space="preserve">2</text>
+									</g>
 									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
 											font-size="384">
-										<text stroke="none" fill="#000000" x="0,768" y="0" transform="translate(318,448)"
-												xml:space="preserve">2</text>
+										<text stroke="none" fill="#000000" x="0,234,426,884,1118,1214,1556,1832,2600" y="0"
+												transform="translate(454,448)" xml:space="preserve">=202 MNm</text>
+									</g>
+									<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="italic" font-weight="400"
+											font-size="384">
+										<text stroke="none" fill="#000000" x="0,234,1002" y="0" transform="translate(70,448)"
+												xml:space="preserve">EI</text>
 									</g>
 								</g>
 							</g>
 						</g>
-						<mask id="mfid4" fill-rule="evenodd" fill="white" stroke="none">
-							<rect x="0" y="0" width="597" height="534"/>
+						<mask id="mfid12" fill-rule="evenodd" fill="white" stroke="none">
+							<rect x="0" y="0" width="597" height="131"/>
 						</mask>
 					</g>
 				</svg>
 			</switch>
-			<rect v:rectContext="foreign" x="0" y="122.668" width="18.9921" height="16.9795" class="st9"/>
+			<rect v:rectContext="foreign" x="0" y="120.656" width="86.9953" height="18.9921" class="st9"/>
 		</g>
-		<g id="shape42-100" v:mID="42" v:groupContext="shape" transform="translate(3.20965,-14.5483)">
+		<g id="shape42-94" v:mID="42" v:groupContext="shape" transform="translate(3.20965,-14.5483)">
 			<title>Punt A</title>
 			<desc>A</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="132.561" width="14.18" height="14.1732"/>
 			<rect x="0" y="125.474" width="14.1732" height="14.1732" class="st7"/>
 			<text x="4" y="136.16" class="st8" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>A</text>		</g>
-		<g id="shape43-103" v:mID="43" v:groupContext="shape" transform="translate(109.509,-14.5483)">
+		<g id="shape43-97" v:mID="43" v:groupContext="shape" transform="translate(109.509,-14.5483)">
 			<title>Punt A.43</title>
 			<desc>B</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="132.561" width="14.18" height="14.1732"/>
 			<rect x="0" y="125.474" width="14.1732" height="14.1732" class="st7"/>
 			<text x="4" y="136.16" class="st8" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>B</text>		</g>
-		<g id="shape44-106" v:mID="44" v:groupContext="shape" transform="translate(229.981,-0.375026)">
+		<g id="shape44-100" v:mID="44" v:groupContext="shape" transform="translate(229.981,-0.375026)">
 			<title>Punt A.44</title>
 			<desc>C</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="132.561" width="14.18" height="14.1732"/>
 			<rect x="0" y="125.474" width="14.1732" height="14.1732" class="st7"/>
 			<text x="4" y="136.16" class="st8" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>C</text>		</g>
-		<g id="shape45-109" v:mID="45" v:groupContext="shape" transform="translate(350.454,-113.761)">
+		<g id="shape45-103" v:mID="45" v:groupContext="shape" transform="translate(350.454,-113.761)">
 			<title>Punt A.45</title>
 			<desc>D</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="132.561" width="14.18" height="14.1732"/>
 			<rect x="0" y="125.474" width="14.1732" height="14.1732" class="st7"/>
 			<text x="4" y="136.16" class="st8" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>D</text>		</g>
-		<g id="shape46-112" v:mID="46" v:groupContext="shape" transform="translate(10.2963,-113.761)">
+		<g id="shape46-106" v:mID="46" v:groupContext="shape" transform="translate(10.2963,-113.761)">
 			<title>Blad.46</title>
 			<desc>EA = ∞</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
