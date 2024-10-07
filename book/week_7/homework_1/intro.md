@@ -1,4 +1,4 @@
-(homework6.1)=
+(homework7.1)=
 # Homework deadline lesson Monday October 14th
 
 As a preparation for Monday's lesson you'll look into the Displacement method:
