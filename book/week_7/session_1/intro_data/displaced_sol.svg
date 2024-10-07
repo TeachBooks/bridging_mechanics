@@ -1020,11 +1020,11 @@
 			</g>
 			<g id="shape1796-508" v:mID="1796" v:groupContext="shape" transform="translate(-14.1732,2.84217E-14)">
 				<title>Blad.1796</title>
-				<desc>1 m / 100 mm</desc>
+				<desc>2 m / 100 mm</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="42.5197" cy="149.319" width="85.04" height="14.1732"/>
 				<rect x="0" y="142.232" width="85.0394" height="14.1732" class="st11"/>
-				<text x="8.85" y="152.92" class="st12" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>1 m / 100 mm  </text>			</g>
+				<text x="8.85" y="152.92" class="st12" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>2 m / 100 mm  </text>			</g>
 		</g>
 	</g>
 </svg>
