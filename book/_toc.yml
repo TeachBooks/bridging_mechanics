@@ -162,6 +162,10 @@ parts:
         - file: external/mechanics-BSc/book/statically_inderminate/force_method/moveable_nodes
     - file: week_6/session_3/intro
   - file: week_7/intro
+    sections:
+    - file: week_7/homework_1/intro
+      sections:
+      - file: external/mechanics-BSc/book/statically_inderminate/displacement_method
 - caption: Miscellaneous
   chapters:
   - file: changelog
