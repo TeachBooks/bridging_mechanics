@@ -163,10 +163,10 @@ parts:
     - file: week_6/session_3/intro
   - file: week_7/intro
     sections:
-    - file: week_7/homework_1/intro
+    - file: week_7/session_1/intro
+    - file: week_7/homework_2/intro
       sections:
       - file: external/mechanics-BSc/book/statically_inderminate/displacement_method
-    - file: week_7/session_1/intro
     
 - caption: Miscellaneous
   chapters:

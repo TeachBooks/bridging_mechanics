@@ -1,7 +1,7 @@
-(homework7.1)=
-# Homework deadline lesson Monday October 14th
+(homework7.2)=
+# Homework deadline lesson Wednesday October 16th
 
-As a preparation for Monday's lesson you'll look into the Displacement method:
+As a preparation for Wednesday's lesson you'll look into the Displacement method:
 
 ```{tableofcontents}
 ```
