@@ -1,5 +1,5 @@
 (homework10)=
-# Homework deadline lesson Friday November 8th
+# Preparation exam Friday November 8th
 
 As a preparation for the first exam you can repeat all the topics of Statically indeterminate structures, including the prerequisites:
 
