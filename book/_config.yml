@@ -86,9 +86,13 @@ parse:
     week8: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
-      |Homework deadlines |||[Read theory and make homework exercises Stiffness discontinuities and support settlement](homework8.2) <br>{bdg-primary}`New content`||[Read theory and make homework exercises temperature influences](homework8.3) <br>{bdg-primary}`New content`|
+      |Homework deadlines |||[Read theory and make homework exercises Stiffness discontinuities and support settlement](homework8.2) <br>{bdg-primary}`New content`||[Read theory and make homework exercises temperature influences](homework8.3) <br>{bdg-primary}`New content`|[Prepare for exam](homework10) <br>{bdg-primary}`New content` <br> {bdg-secondary}`Prerequisites`|
       |Class activities|||[Guided practice on Stiffness discontinuities and support settlement](lesson8.2) <br>{bdg-primary-line}`New content`||[Guided practice on temperature influences](lesson8.3) <br>{bdg-primary-line}`New content`|
-    week10: "To be provided"
+    week10: |
+      ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
+      |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
+      |Homework deadlines |||||[Exam statically indeterminate structures](homework10) <br>{bdg-primary}`New content` <br> {bdg-secondary}`Prerequisites`|
+      |Class activities|||||[Exam statically indeterminate structure](exam1) <br>{bdg-primary-line}`New content` <br> {bdg-secondary-line}`Prerequisites`|
     week11: "To be provided"
     week12: "To be provided"
     week13: "To be provided"
