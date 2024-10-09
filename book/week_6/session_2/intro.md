@@ -33,7 +33,7 @@ Given the following structure.
 ````{admonition} Solution assignment 1
 :class: tip, dropdown
 
-$B_\text{v} = 23.75 \text{ kN} $ (↑)
+$C_\text{v} = 23.75 \text{ kN} $ (↑)
 
 ````
 
