@@ -167,6 +167,13 @@ parts:
     - file: week_7/homework_2/intro
       sections:
       - file: external/mechanics-BSc/book/statically_inderminate/displacement_method
+  - file: week_8/intro
+    sections:
+    - file: week_8/homework_3/intro
+      sections:
+      - file: week_8/homework_3/copy
+        sections:
+        - file: external/mechanics-BSc/book/stresses_displacements/constitutive/temperature
     
 - caption: Miscellaneous
   chapters:
