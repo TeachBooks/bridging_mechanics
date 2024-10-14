@@ -37,7 +37,7 @@ The support by lecturers and TAs in class comprises of:
 - Additional explanation to small student groups on the literature,
 - Guidance and feedback on exercises
 
-(exam=)
+(exam-general)=
 ## Assessment
 The learning will be assessed incrementally:
 - Exam period Q1, assignment on statically indeterminate structures
