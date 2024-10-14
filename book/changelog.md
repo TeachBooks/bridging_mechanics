@@ -2,9 +2,13 @@
 
 Starting September 2nd, all changes to the book are announced here.
 
+## 2024-10-14
+- Added [Week 7 session 2](week_7/session_1/intro.ipynb)
+
 ## 2024-10-09
-- Added [Week 10 preparation exam](week_10/homework/intro)
-- Added [Week 10 exam](week_10/session/intro)
+- Added [Week 8 homework session 3](week_8/homework.intro.md)
+- Added [Week 10 preparation exam](week_10/homework/intro.md)
+- Added [Week 10 exam](week_10/session/intro.md)
 
 ## 2024-10-07
 - Added [Week 7 homework session 1](week_7/homework_2/intro.md)
