@@ -171,6 +171,9 @@ parts:
     #- file: week_7/session_3
   - file: week_8/intro
     sections:
+    - file: week_8/homework_2/intro
+      sections:
+      - file: external/mechanics-BSc/book/statically_inderminate/support_settlement
     - file: week_8/homework_3/intro
       sections:
       - file: week_8/homework_3/copy
