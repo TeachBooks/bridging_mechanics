@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Gegenereerd door Microsoft Visio, SVG Export curv_sun.svg Pagina-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="3.93758in" height="0.737194in"
+		viewBox="0 0 283.506 53.078" xml:space="preserve" color-interpolation-filters="sRGB" class="st7">
+	<v:documentProperties v:langID="1043" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st3 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.25}
+		.st4 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st5 {fill:#000000;font-family:Times New Roman;font-size:1.00001em}
+		.st6 {baseline-shift:32.4941%;font-size:0.649882em}
+		.st7 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Pagina-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape57-1" v:mID="57" v:groupContext="shape" transform="translate(56.3593,-1.125)">
+			<title>Ligger, 2 pt.57</title>
+			<path d="M0 53.08 L170.08 53.08" class="st1"/>
+		</g>
+		<g id="shape58-4" v:mID="58" v:groupContext="shape" transform="translate(56.3593,-1.125)">
+			<title>Blad.58</title>
+			<path d="M0 53.08 L0 10.56 L170.08 10.56 L170.08 53.08" class="st2"/>
+		</g>
+		<g id="shape59-7" v:mID="59" v:groupContext="shape" transform="translate(127.225,-15.2982)">
+			<title>Momentvervormingsteken</title>
+			<path d="M0 53.08 A14.1732 14.1732 0 0 1 14.17 38.9 A14.1732 14.1732 0 0 1 28.35 53.08" class="st3"/>
+		</g>
+		<g id="shape272-10" v:mID="272" v:groupContext="shape" transform="translate(226.438,-36.5581)">
+			<title>Blad.272</title>
+			<desc>0.001 m-1</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="45.9914" width="56.7" height="14.1732"/>
+			<rect x="0" y="38.9048" width="56.6929" height="14.1732" class="st4"/>
+			<text x="5.43" y="49.59" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>0.001 m<tspan
+						dy="-0.198em" class="st6" v:baseFontSize="12">-</tspan><tspan class="st6" v:baseFontSize="12">1</tspan></text>		</g>
+		<g id="shape273-15" v:mID="273" v:groupContext="shape" transform="translate(0.375,-36.5581)">
+			<title>Blad.273</title>
+			<desc>0.001 m-1</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="45.9914" width="56.7" height="14.1732"/>
+			<rect x="0" y="38.9048" width="56.6929" height="14.1732" class="st4"/>
+			<text x="5.43" y="49.59" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>0.001 m<tspan
+						dy="-0.198em" class="st6" v:baseFontSize="12">-</tspan><tspan class="st6" v:baseFontSize="12">1</tspan></text>		</g>
+	</g>
+</svg>
