@@ -180,8 +180,7 @@ parts:
       - file: week_8/homework_3/copy
         sections:
         - file: external/mechanics-BSc/book/stresses_displacements/constitutive/temperature
-      - file: external/mechanics-BSc/book/support_internal_forces/temperature/temperature
-        title: Solve statically determinate structures subjected to temperature influences
+      - file: external/mechanics-BSc/book/stresses_displacements/temperature/temperature
       - file: external/mechanics-BSc/book/statically_inderminate/temperature
         title: Solve statically indeterminate structures subjected to temperature influences
   - file: week_10/intro
