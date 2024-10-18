@@ -183,6 +183,7 @@ parts:
       - file: external/mechanics-BSc/book/stresses_displacements/temperature/temperature
       - file: external/mechanics-BSc/book/statically_inderminate/temperature
         title: Solve statically indeterminate structures subjected to temperature influences
+    - file: week_8/session_3/intro
   - file: week_10/intro
     sections:
     - file: week_10/homework/intro

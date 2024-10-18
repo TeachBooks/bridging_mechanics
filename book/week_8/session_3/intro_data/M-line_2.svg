@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Gegenereerd door Microsoft Visio, SVG Export M-line_2.svg Pagina-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="2.26711in" height="1.08601in"
+		viewBox="0 0 163.232 78.1928" xml:space="preserve" color-interpolation-filters="sRGB" class="st6">
+	<v:documentProperties v:langID="1043" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.25}
+		.st4 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st5 {fill:#000000;font-family:Times New Roman;font-size:1.00001em}
+		.st6 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Pagina-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape65-1" v:mID="65" v:groupContext="shape" transform="translate(70.7461,70.9861) rotate(-90)">
+			<title>Ligger, 2 pt.65</title>
+			<path d="M0 78.19 L56.69 78.19" class="st1"/>
+		</g>
+		<g id="shape66-4" v:mID="66" v:groupContext="shape" transform="translate(7.20662,-63.8995)">
+			<title>Ligger, 2 pt.66</title>
+			<path d="M0 78.19 L56.69 78.19" class="st2"/>
+		</g>
+		<g id="shape67-7" v:mID="67" v:groupContext="shape" transform="translate(63.8995,-63.8995)">
+			<title>Ligger, 2 pt.67</title>
+			<path d="M0 78.19 L85.04 78.19" class="st2"/>
+		</g>
+		<g id="shape68-10" v:mID="68" v:groupContext="shape" transform="translate(7.20662,-59.3641)">
+			<title>Blad.68</title>
+			<path d="M0 73.66 L56.69 78.19 L141.73 73.66" class="st1"/>
+		</g>
+		<g id="shape69-13" v:mID="69" v:groupContext="shape" transform="translate(78.0728,81.8561) rotate(180)">
+			<title>Momentvervormingsteken.69</title>
+			<path d="M0 78.19 A7.08661 7.08661 0 0 1 7.09 71.11 A7.08661 7.08661 0 0 1 14.17 78.19" class="st3"/>
+		</g>
+		<g id="shape70-16" v:mID="70" v:groupContext="shape" transform="translate(49.7263,-45.4743)">
+			<title>Punt A.70</title>
+			<desc>1.6</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="14.1732" cy="71.1061" width="28.35" height="14.1732"/>
+			<rect x="0" y="64.0195" width="28.3465" height="14.1732" class="st4"/>
+			<text x="6.67" y="74.71" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>1.6</text>		</g>
+		<g id="shape71-19" v:mID="71" v:groupContext="shape" transform="translate(0.12,-63.8995)">
+			<title>Punt A.71</title>
+			<desc>0</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="71.1061" width="14.18" height="14.1732"/>
+			<rect x="0" y="64.0195" width="14.1732" height="14.1732" class="st4"/>
+			<text x="4.09" y="74.71" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>0</text>		</g>
+		<g id="shape72-22" v:mID="72" v:groupContext="shape" transform="translate(141.852,-63.8995)">
+			<title>Punt A.72</title>
+			<desc>0</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="71.1061" width="14.18" height="14.1732"/>
+			<rect x="0" y="64.0195" width="14.1732" height="14.1732" class="st4"/>
+			<text x="4.09" y="74.71" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>0</text>		</g>
+		<g id="shape73-25" v:mID="73" v:groupContext="shape" transform="translate(84.9194,21.3798) rotate(-90)">
+			<title>Punt A.73</title>
+			<desc>0</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="71.1061" width="14.18" height="14.1732"/>
+			<rect x="0" y="64.0195" width="14.1732" height="14.1732" class="st4"/>
+			<text x="4.09" y="74.71" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>0</text>		</g>
+		<g id="shape74-28" v:mID="74" v:groupContext="shape" transform="translate(84.9194,78.0728) rotate(-90)">
+			<title>Punt A.74</title>
+			<desc>0</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="71.1061" width="14.18" height="14.1732"/>
+			<rect x="0" y="64.0195" width="14.1732" height="14.1732" class="st4"/>
+			<text x="4.09" y="74.71" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>0</text>		</g>
+	</g>
+</svg>
