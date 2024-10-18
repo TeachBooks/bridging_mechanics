@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Gegenereerd door Microsoft Visio, SVG Export M-line.svg Pagina-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="2.98401in" height="2.36554in"
+		viewBox="0 0 214.848 170.319" xml:space="preserve" color-interpolation-filters="sRGB" class="st6">
+	<v:documentProperties v:langID="1043" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st3 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.25}
+		.st4 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st5 {fill:#000000;font-family:Times New Roman;font-size:1.00001em}
+		.st6 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Pagina-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape87-1" v:mID="87" v:groupContext="shape" transform="translate(213.723,255.478) rotate(180)">
+			<title>Blad.87</title>
+			<path d="M0 170.32 L212.6 170.32" class="st1"/>
+		</g>
+		<g id="shape90-4" v:mID="90" v:groupContext="shape" transform="translate(1.125,-14.2932)">
+			<title>Blad.90</title>
+			<path d="M0 99.45 L70.87 170.32 L141.73 28.59 L212.6 99.45" class="st2"/>
+		</g>
+		<g id="shape91-7" v:mID="91" v:groupContext="shape" transform="translate(142.857,-99.3326)">
+			<title>Momentvervormingsteken</title>
+			<path d="M0 170.32 A14.1732 14.1732 0 0 1 14.17 156.15 A14.1732 14.1732 0 0 1 28.35 170.32" class="st3"/>
+		</g>
+		<g id="shape92-10" v:mID="92" v:groupContext="shape" transform="translate(71.9911,269.651) rotate(180)">
+			<title>Momentvervormingsteken.92</title>
+			<path d="M0 170.32 A14.1732 14.1732 0 0 1 14.17 156.15 A14.1732 14.1732 0 0 1 28.35 170.32" class="st3"/>
+		</g>
+		<g id="shape93-13" v:mID="93" v:groupContext="shape" transform="translate(43.6447,-0.12)">
+			<title>A.93</title>
+			<desc>12.5</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="163.232" width="56.7" height="14.1732"/>
+			<rect x="0" y="156.146" width="56.6929" height="14.1732" class="st4"/>
+			<text x="17.85" y="166.83" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>12.5</text>		</g>
+		<g id="shape94-16" v:mID="94" v:groupContext="shape" transform="translate(114.511,-156.026)">
+			<title>A.94</title>
+			<desc>12.5</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="163.232" width="56.7" height="14.1732"/>
+			<rect x="0" y="156.146" width="56.6929" height="14.1732" class="st4"/>
+			<text x="17.85" y="166.83" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>12.5</text>		</g>
+		<g id="shape95-19" v:mID="95" v:groupContext="shape" transform="translate(15.2982,-113.506)">
+			<title>A.95</title>
+			<desc>M-line (kNm)</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="42.5197" cy="163.232" width="85.04" height="14.1732"/>
+			<rect x="0" y="156.146" width="85.0394" height="14.1732" class="st4"/>
+			<text x="8.69" y="166.83" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>M-line (kNm)</text>		</g>
+	</g>
+</svg>

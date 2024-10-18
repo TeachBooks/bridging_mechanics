@@ -175,6 +175,7 @@ parts:
       sections:
       - file: external/mechanics-BSc/book/statically_inderminate/support_settlement
       - file: external/mechanics-BSc/book/statically_inderminate/stiffness_influences
+    - file: week_8/session_2/intro
     - file: week_8/homework_3/intro
       sections:
       - file: week_8/homework_3/copy
