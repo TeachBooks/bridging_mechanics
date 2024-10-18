@@ -162,7 +162,7 @@
 		</g>
 		<g id="shape31-66" v:mID="31" v:groupContext="shape" transform="translate(41.4774,-139.135)">
 			<title>Blad.31</title>
-			<desc>EI = 20 MNm2 ΔT = 50 °C hAC = 0.4 m α = 10-5 K-1 CD uniform v...</desc>
+			<desc>EI = 20 MNm2 ΔT = 50 °C hAC = 0.4 m α = 10-5 K-1 CD uniformly...</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="69.4488" cy="177.373" width="138.9" height="42.5197"/>
 			<rect x="0" y="156.113" width="138.898" height="42.5197" class="st7"/>
@@ -174,7 +174,7 @@
 						dy="1.2em" class="st11">α</tspan><tspan class="st9"> </tspan><tspan class="st9">= 10</tspan><tspan
 						dy="-0.198em" class="st10" v:baseFontSize="12">-</tspan><tspan class="st10" v:baseFontSize="12">5 </tspan><tspan
 						dy="0.129em" class="st9">K</tspan><tspan dy="-0.198em" class="st10" v:baseFontSize="12">-</tspan><tspan
-						class="st10" v:baseFontSize="12">1<v:newlineChar/></tspan><tspan x="14.46" dy="1.329em" class="st9">CD uniform verwarmd</tspan></text>		</g>
+						class="st10" v:baseFontSize="12">1<v:newlineChar/></tspan><tspan x="18.46" dy="1.329em" class="st9">CD uniformly heated</tspan></text>		</g>
 		<g id="shape32-88" v:mID="32" v:groupContext="shape" transform="translate(3.20965,-99.5876)">
 			<title>Punt A</title>
 			<desc>A</desc>
