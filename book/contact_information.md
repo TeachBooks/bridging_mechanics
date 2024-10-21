@@ -12,6 +12,7 @@ If you're stuck on a certain topic, you can also visit the teaching assistants d
 ```{figure} figures/Tom.jpg
 :width: 300px
 :align: center
+:class: dark-light
 ```
 
 ## Hans Welleman
@@ -22,6 +23,7 @@ If you're stuck on a certain topic, you can also visit the teaching assistants d
 ```{figure} figures/hans.jpg
 :width: 300px
 :align: center
+:class: dark-light
 ```
 
 ## Teaching assistants
@@ -33,6 +35,7 @@ If you're stuck on a certain topic, you can also visit the teaching assistants d
 ```{figure} figures/overzichtfoto's.jpg
 :width: 300px
 :align: center
+:class: dark-light
 ```
 
 - Gweneira van Koot
