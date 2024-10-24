@@ -2,11 +2,11 @@
 
 Starting September 2nd, all changes to the book are announced here.
 
-## 2024-10-18, [`2024_week1-10`](https://github.com/TeachBooks/bridging_mechanics/releases/tag/2024_week1-10)
+## 2024-10-18 [`2024_week1-10`](https://github.com/TeachBooks/bridging_mechanics/releases/tag/2024_week1-10)
 - Added [Week 8 session 3](week_8/session_3/intro.ipynb)
 - Added [Week 8 session 2](week_8/session_2/intro.ipynb)
 
-## 2024-10-15, [`2024_week1-7`](https://github.com/TeachBooks/bridging_mechanics/releases/tag/2024_week1-7)
+## 2024-10-15 [`2024_week1-7`](https://github.com/TeachBooks/bridging_mechanics/releases/tag/2024_week1-7)
 - Added [Week 8 homework session 2](week_8/homework_2/intro.md)
 - Added [Week 7 session 3](week_7/session_3/intro.ipynb)
 
