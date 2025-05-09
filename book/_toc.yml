@@ -320,42 +320,36 @@ parts:
       - file: week_15/session_2/mats
   - file: week_16/intro
     sections:
-    #- url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/lecture1-stability.pdf
-    #  title: Lecture slides Intro and systems with 1 dof
-    - url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/
-      title: Buckling material
+    - url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/lecture1-stability.pdf
+      title: Lecture slides Intro and systems with 1 dof
     - file: week_16/homework/intro
   - file: week_17/intro
     sections:
-    #- url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/lecture2-stability.pdf
-    #  title: Lecture slides Systems with 1 and infinite number dofs
-    - url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/
-      title: Buckling material
+    - url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/lecture2-stability.pdf
+      title: Lecture slides Systems with 1 and infinite number dofs
     - file: week_17/homework/intro
-    #- url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/toelichting_Hfst4_voorbeeld3.pdf
-    #  title: Additional notes on example 3 of chpt 4 in Dutch
+    - url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/toelichting_Hfst4_voorbeeld3.pdf
+      title: Additional notes on example 3 of chpt 4 in Dutch
   - file: week_18/intro
     sections:
-    #- url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/lecture3-stability.pdf
-    #  title: Lecture slides Flexural buckling, Eulerian approach
-    - url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/
-      title: Buckling material
+    - url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/lecture3-stability.pdf
+      title: Lecture slides Flexural buckling, Eulerian approach
     - file: week_18/homework/intro
-    #- url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/equivalent-rotational-stiffness.pdf
-    #  title: Note on Equivalent rotational stiffness in English
-    #- url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/Vervangende_rotatieveerstijfheid.pdf
-    #  title: Note on Equivalent rotational stiffness in Dutch
-    #- file: week_18/homework/example
-    #- url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/python-buckling-Euler5.html
-    #  title: Python script to find buckling load, basic type 5
-    #- url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/python-knik_kolom-met-EI1-EI2.html
-    #  title: Python script to find numerical buckling load, example with different EI from slides
-    #- url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/python-knik_kolom-met-2-puntlasten.html
-    #  title: Python script to find numerical buckling load, example with two forces from slides
-    #- url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/Summary-Flexural-Buckling-Formulas.pdf
-    #  title: Summary of formulas flexural buckling in English
-    #- url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/Samenvatting%20buigzame%20staven.pdf
-    #  title: Summary of formulas flexural buckling in Dutch
+    - url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/equivalent-rotational-stiffness.pdf
+      title: Note on Equivalent rotational stiffness in English
+    - url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/Vervangende_rotatieveerstijfheid.pdf
+      title: Note on Equivalent rotational stiffness in Dutch
+    - file: week_18/homework/example
+    - url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/python-buckling-Euler5.html
+      title: Python script to find buckling load, basic type 5
+    - url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/python-knik_kolom-met-EI1-EI2.html
+      title: Python script to find numerical buckling load, example with different EI from slides
+    - url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/python-knik_kolom-met-2-puntlasten.html
+      title: Python script to find numerical buckling load, example with two forces from slides
+    - url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/Summary-Flexural-Buckling-Formulas.pdf
+      title: Summary of formulas flexural buckling in English
+    - url: https://icozct.tudelft.nl/TUD_CT/CM3bridge/collegestof/stabiliteit/files/Samenvatting%20buigzame%20staven.pdf
+      title: Summary of formulas flexural buckling in Dutch
   - file: week_20/intro
     sections:
     - file: week_20/homework/intro
